@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CRC32.cpp
+  FileProtect.cpp
+  GetHackList.cpp
+GetHackList.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  

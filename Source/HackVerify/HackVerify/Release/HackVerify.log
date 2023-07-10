@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  HackVerify.cpp
+HackVerify.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  

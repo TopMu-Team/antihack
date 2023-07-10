@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  HackClient.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackClient\HackClient\HackClient.cpp(34,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackClient\HackClient\HackClient.cpp(148,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackClient\HackClient\HackClient.cpp(164,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackClient\HackClient\HackClient.cpp(168,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackClient\HackClient\HackClient.cpp(170,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Creating library D:\Games\CLIENTS18(P2-2) (1)\CLIENTS18(P2-2)\Client\Antihack.lib and object D:\Games\CLIENTS18(P2-2) (1)\CLIENTS18(P2-2)\Client\Antihack.exp
+  Generating code
+  1 of 818 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(detours.obj)' or at ''; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(disasm.obj)' or at ''; linking object as if no debug info
+  HackClient.vcxproj -> D:\Games\CLIENTS18(P2-2) (1)\CLIENTS18(P2-2)\Client\Antihack.dll

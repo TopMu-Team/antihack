@@ -1,0 +1,264 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#define APSTUDIO_HIDDEN_SYMBOLS
+#include "windows.h"
+#undef APSTUDIO_HIDDEN_SYMBOLS
+#include "resource.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_DEFAULT
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_HACKSERVER          ICON                    "HackServer.ICO"
+IDI_SMALL               ICON                    "SMALL.ICO"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDC_HACKSERVER MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "View", ID_OTHER_SCREEN
+    END
+    POPUP "Reload"
+    BEGIN
+        MENUITEM "Reload Config",               IDM_RELOAD_CONFIG
+        MENUITEM "Reload Dump List",            IDM_RELOAD_DUMP
+        MENUITEM "Reload Checksum List",        IDM_RELOAD_CHECKSUM
+        MENUITEM "Reload Window List",          IDM_RELOAD_WINDOW
+        MENUITEM "Reload Black List",           IDM_RELOAD_BLACKLIST
+    END
+    POPUP "Other"
+    BEGIN
+    MENUITEM "Temporary Banned", ID_OTHER_BANNED
+    MENUITEM "Delete Temporary Bans", ID_OTHER_DELETETEMPBANS
+    MENUITEM "Screen", ID_OTHER_SCREEN
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About ...",                  IDM_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDC_HACKSERVER ACCELERATORS
+BEGIN
+    "?",            IDM_ABOUT,              ASCII,  ALT
+    "/",            IDM_ABOUT,              ASCII,  ALT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 22, 17, 230, 42
+STYLE DS_SETFONT | DS_MODALFRAME | WS_CAPTION | WS_SYSMENU
+CAPTION "About"
+FONT 8, "System", 0, 0, 0x0
+BEGIN
+    ICON            IDI_HACKSERVER,IDC_MYICON,14,9,20,20
+    LTEXT           "Trong.LIVE AntiHackServer",IDC_STATIC,49,10,119,8,SS_NOPREFIX
+    LTEXT           "https://vnDev.Games/",IDC_STATIC,49,20,119,8
+    DEFPUSHBUTTON   "OK",IDOK,195,6,30,11,WS_GROUP
+END
+
+
+IDD_INFO_DIALOG DIALOGEX 0, 0, 568, 249
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+PUSHBUTTON      "RELOAD", ID_RELOAD, 470, 137, 91, 33
+PUSHBUTTON      "Disconnect", ID_CANCEL, 470, 209, 91, 33
+LISTBOX         IDC_LIST_IP, 7, 7, 157, 235, LBS_SORT | LBS_NOINTEGRALHEIGHT | LBS_DISABLENOSCROLL | WS_VSCROLL | WS_TABSTOP
+PUSHBUTTON      "Show Process", ID_DESKTOP, 470, 173, 91, 33
+LISTBOX         IDC_LIST_HWID, 171, 7, 179, 235, LBS_SORT | LBS_NOINTEGRALHEIGHT | LBS_DISABLENOSCROLL | WS_VSCROLL | WS_TABSTOP
+END
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+2 TEXTINCLUDE 
+BEGIN
+    "#define APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""windows.h""\r\n"
+    "#undef APSTUDIO_HIDDEN_SYMBOLS\r\n"
+    "#include ""resource.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+IDM_BANNED, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 309
+TOPMARGIN, 7
+BOTTOMMARGIN, 175
+END
+
+IDM_SCREEN, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 780
+TOPMARGIN, 7
+BOTTOMMARGIN, 431
+END
+
+IDD_INFO_DIALOG, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 561
+TOPMARGIN, 7
+BOTTOMMARGIN, 242
+END
+
+IDD_LICENSE_BOX, DIALOG
+BEGIN
+LEFTMARGIN, 7
+RIGHTMARGIN, 263
+TOPMARGIN, 7
+BOTTOMMARGIN, 96
+END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDS_APP_TITLE           "HackServer"
+    IDC_HACKSERVER          "HACKSERVER"
+END
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Portuguese (Brazil) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_PTB)
+LANGUAGE LANG_ENGLISH, SUBLANG_DEFAULT
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,0,0
+ PRODUCTVERSION 2,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "TopMu"
+            VALUE "FileDescription", "AntiHackServer"
+            VALUE "FileVersion", "2.0.0.0"
+            VALUE "InternalName", "AntiHackServer"
+            VALUE "LegalCopyright", "?Trong?Corporation. All Rights Reserved"
+            VALUE "LegalTrademarks", "TopMu"
+            VALUE "OriginalFilename", "AntiHackServer.exe"
+            VALUE "ProductName", "Trong.LIVE AntiHackServer"
+            VALUE "ProductVersion", "2.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // Portuguese (Brazil) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,1275 @@
+00:42:04 [SocketManager] Server started at port [0]
+00:42:04 [AntiHackServerInfo] Config loaded successfully
+00:42:22 [SocketManager] Server started at port [0]
+00:42:22 [AntiHackServerInfo] Config loaded successfully
+00:49:06 [SocketManager] Server started at port [0]
+00:49:06 [AntiHackServerInfo] Config loaded successfully
+00:49:06 [AntiHackServerInfo] DumpList loaded successfully
+00:49:06 [AntiHackServerInfo] ChecksumList loaded successfully
+00:49:06 [AntiHackServerInfo] InternalList loaded successfully
+00:49:06 [AntiHackServerInfo] WindowList loaded successfully
+00:49:42 [SocketManager] Server started at port [0]
+00:49:42 [AntiHackServerInfo] Config loaded successfully
+00:49:42 [AntiHackServerInfo] DumpList loaded successfully
+00:49:42 [AntiHackServerInfo] ChecksumList loaded successfully
+00:49:42 [AntiHackServerInfo] InternalList loaded successfully
+00:49:42 [AntiHackServerInfo] WindowList loaded successfully
+00:49:42 [AntiHackServerInfo] BlackList loaded successfully
+00:50:20 [SocketManager] Server started at port [55999]
+00:50:20 [AntiHackServerInfo] Config loaded successfully
+00:50:20 [AntiHackServerInfo] DumpList loaded successfully
+00:50:20 [AntiHackServerInfo] ChecksumList loaded successfully
+00:50:20 [AntiHackServerInfo] InternalList loaded successfully
+00:50:20 [AntiHackServerInfo] WindowList loaded successfully
+00:50:20 [AntiHackServerInfo] BlackList loaded successfully
+00:50:26 [ClientManager][0] AddClient (127.0.0.1)
+00:51:05 [ClientManager][0] DelClient (127.0.0.1)
+00:51:45 [ClientManager][0] AddClient (127.0.0.1)
+00:51:45 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:52:45 [ClientManager][0] DelClient (127.0.0.1)
+00:54:01 [ClientManager][0] AddClient (127.0.0.1)
+00:54:01 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:55:05 [ClientManager][0] DelClient (127.0.0.1)
+00:56:27 [ClientManager][0] AddClient (127.0.0.1)
+00:56:27 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:57:30 [ClientManager][0] DelClient (127.0.0.1)
+00:58:22 [ClientManager][0] AddClient (127.0.0.1)
+00:58:22 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+00:58:24 [SocketManager] Max msg size (Type: 2, Index: 0, Size: 68477)
+00:58:24 [ClientManager][0] DelClient (127.0.0.1)
+00:59:54 [ClientManager][0] AddClient (127.0.0.1)
+00:59:54 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:00:01 [ClientManager][0] DelClient (127.0.0.1)
+01:00:10 [ClientManager][1] AddClient (127.0.0.1)
+01:00:10 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:00:16 [ClientManager][1] DelClient (127.0.0.1)
+01:00:30 [ClientManager][0] AddClient (127.0.0.1)
+01:00:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:00:57 [ClientManager][0] DelClient (127.0.0.1)
+01:01:05 [ClientManager][1] AddClient (127.0.0.1)
+01:01:05 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:01:11 [ClientManager][1] DelClient (127.0.0.1)
+01:01:30 [ClientManager][0] AddClient (127.0.0.1)
+01:01:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:01:42 [ClientManager][0] DelClient (127.0.0.1)
+01:01:48 [ClientManager][1] AddClient (127.0.0.1)
+01:01:48 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:01:59 [ClientManager][1] DelClient (127.0.0.1)
+01:02:04 [ClientManager][0] AddClient (127.0.0.1)
+01:02:04 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:02:27 [ClientManager][0] DelClient (127.0.0.1)
+01:02:31 [ClientManager][1] AddClient (127.0.0.1)
+01:02:31 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:02:38 [ClientManager][1] DelClient (127.0.0.1)
+01:02:53 [ClientManager][0] AddClient (127.0.0.1)
+01:02:53 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:02:59 [ClientManager][0] DelClient (127.0.0.1)
+01:04:47 [ClientManager][1] AddClient (127.0.0.1)
+01:04:47 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:04:54 [ClientManager][1] DelClient (127.0.0.1)
+01:05:53 [ClientManager][0] AddClient (127.0.0.1)
+01:05:53 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:05:59 [ClientManager][0] DelClient (127.0.0.1)
+01:07:05 [ClientManager][1] AddClient (127.0.0.1)
+01:07:05 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:12:04 [ClientManager][1] DelClient (127.0.0.1)
+01:12:09 [ClientManager][0] AddClient (127.0.0.1)
+01:12:09 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+01:12:47 [ClientManager][0] DelClient (127.0.0.1)
+01:13:10 [ClientManager][1] AddClient (127.0.0.1)
+01:13:10 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+09:13:39 [SocketManager] Server started at port [55999]
+09:13:39 [AntiHackServerInfo] Config loaded successfully
+09:13:39 [AntiHackServerInfo] DumpList loaded successfully
+09:13:39 [AntiHackServerInfo] ChecksumList loaded successfully
+09:13:39 [AntiHackServerInfo] InternalList loaded successfully
+09:13:39 [AntiHackServerInfo] WindowList loaded successfully
+09:13:39 [AntiHackServerInfo] BlackList loaded successfully
+09:47:22 [SocketManager] Server started at port [55999]
+09:47:22 [AntiHackServerInfo] Config loaded successfully
+09:47:22 [AntiHackServerInfo] DumpList loaded successfully
+09:47:22 [AntiHackServerInfo] ChecksumList loaded successfully
+09:47:22 [AntiHackServerInfo] InternalList loaded successfully
+09:47:22 [AntiHackServerInfo] WindowList loaded successfully
+09:47:22 [AntiHackServerInfo] BlackList loaded successfully
+09:48:19 [SocketManager] Server started at port [55999]
+09:48:19 [AntiHackServerInfo] Config loaded successfully
+09:48:19 [AntiHackServerInfo] DumpList loaded successfully
+09:48:19 [AntiHackServerInfo] ChecksumList loaded successfully
+09:48:19 [AntiHackServerInfo] InternalList loaded successfully
+09:48:19 [AntiHackServerInfo] WindowList loaded successfully
+09:48:19 [AntiHackServerInfo] BlackList loaded successfully
+09:48:51 [SocketManager] Server started at port [55999]
+09:48:51 [AntiHackServerInfo] Config loaded successfully
+09:48:51 [AntiHackServerInfo] DumpList loaded successfully
+09:48:51 [AntiHackServerInfo] ChecksumList loaded successfully
+09:48:51 [AntiHackServerInfo] InternalList loaded successfully
+09:48:51 [AntiHackServerInfo] WindowList loaded successfully
+09:48:51 [AntiHackServerInfo] BlackList loaded successfully
+09:49:09 [SocketManager] Server started at port [55999]
+09:49:09 [AntiHackServerInfo] Config loaded successfully
+09:49:09 [AntiHackServerInfo] DumpList loaded successfully
+09:49:09 [AntiHackServerInfo] ChecksumList loaded successfully
+09:49:09 [AntiHackServerInfo] InternalList loaded successfully
+09:49:09 [AntiHackServerInfo] WindowList loaded successfully
+09:49:09 [AntiHackServerInfo] BlackList loaded successfully
+09:49:28 [SocketManager] Server started at port [55999]
+09:49:28 [AntiHackServerInfo] Config loaded successfully
+09:49:28 [AntiHackServerInfo] DumpList loaded successfully
+09:49:28 [AntiHackServerInfo] ChecksumList loaded successfully
+09:49:28 [AntiHackServerInfo] InternalList loaded successfully
+09:49:28 [AntiHackServerInfo] WindowList loaded successfully
+09:49:28 [AntiHackServerInfo] BlackList loaded successfully
+09:50:29 [SocketManager] Server started at port [55999]
+09:50:29 [AntiHackServerInfo] Config loaded successfully
+09:50:29 [AntiHackServerInfo] DumpList loaded successfully
+09:50:29 [AntiHackServerInfo] ChecksumList loaded successfully
+09:50:29 [AntiHackServerInfo] InternalList loaded successfully
+09:50:29 [AntiHackServerInfo] WindowList loaded successfully
+09:50:29 [AntiHackServerInfo] BlackList loaded successfully
+09:52:23 [SocketManager] Server started at port [55999]
+09:52:23 [AntiHackServerInfo] Config loaded successfully
+09:52:23 [AntiHackServerInfo] DumpList loaded successfully
+09:52:23 [AntiHackServerInfo] ChecksumList loaded successfully
+09:52:23 [AntiHackServerInfo] InternalList loaded successfully
+09:52:23 [AntiHackServerInfo] WindowList loaded successfully
+09:52:23 [AntiHackServerInfo] BlackList loaded successfully
+09:55:11 [SocketManager] Server started at port [55999]
+09:55:11 [AntiHackServerInfo] Config loaded successfully
+09:55:11 [AntiHackServerInfo] DumpList loaded successfully
+09:55:11 [AntiHackServerInfo] ChecksumList loaded successfully
+09:55:11 [AntiHackServerInfo] InternalList loaded successfully
+09:55:11 [AntiHackServerInfo] WindowList loaded successfully
+09:55:11 [AntiHackServerInfo] BlackList loaded successfully
+09:58:29 [SocketManager] Server started at port [55999]
+09:58:29 [AntiHackServerInfo] Config loaded successfully
+09:58:29 [AntiHackServerInfo] DumpList loaded successfully
+09:58:29 [AntiHackServerInfo] ChecksumList loaded successfully
+09:58:29 [AntiHackServerInfo] InternalList loaded successfully
+09:58:29 [AntiHackServerInfo] WindowList loaded successfully
+09:58:29 [AntiHackServerInfo] BlackList loaded successfully
+09:58:56 [SocketManager] Server started at port [55999]
+09:58:56 [AntiHackServerInfo] Config loaded successfully
+09:58:56 [AntiHackServerInfo] DumpList loaded successfully
+09:58:56 [AntiHackServerInfo] ChecksumList loaded successfully
+09:58:56 [AntiHackServerInfo] InternalList loaded successfully
+09:58:56 [AntiHackServerInfo] WindowList loaded successfully
+09:58:56 [AntiHackServerInfo] BlackList loaded successfully
+09:58:59 [AntiHackServerInfo] Config loaded successfully
+09:59:02 [AntiHackServerInfo] DumpList loaded successfully
+09:59:03 [AntiHackServerInfo] Config loaded successfully
+09:59:04 [AntiHackServerInfo] Config loaded successfully
+09:59:07 [AntiHackServerInfo] ChecksumList loaded successfully
+10:01:04 [SocketManager] Server started at port [55999]
+10:01:04 [AntiHackServerInfo] Config loaded successfully
+10:01:04 [AntiHackServerInfo] DumpList loaded successfully
+10:01:04 [AntiHackServerInfo] ChecksumList loaded successfully
+10:01:04 [AntiHackServerInfo] InternalList loaded successfully
+10:01:04 [AntiHackServerInfo] WindowList loaded successfully
+10:01:04 [AntiHackServerInfo] BlackList loaded successfully
+10:04:53 [SocketManager] Server started at port [55999]
+10:04:53 [AntiHackServerInfo] Config loaded successfully
+10:04:53 [AntiHackServerInfo] DumpList loaded successfully
+10:04:53 [AntiHackServerInfo] ChecksumList loaded successfully
+10:04:53 [AntiHackServerInfo] InternalList loaded successfully
+10:04:53 [AntiHackServerInfo] WindowList loaded successfully
+10:04:53 [AntiHackServerInfo] BlackList loaded successfully
+10:05:40 [SocketManager] Server started at port [55999]
+10:05:40 [AntiHackServerInfo] Config loaded successfully
+10:05:40 [AntiHackServerInfo] DumpList loaded successfully
+10:05:40 [AntiHackServerInfo] ChecksumList loaded successfully
+10:05:40 [AntiHackServerInfo] InternalList loaded successfully
+10:05:40 [AntiHackServerInfo] WindowList loaded successfully
+10:05:40 [AntiHackServerInfo] BlackList loaded successfully
+10:06:15 [SocketManager] Server started at port [55999]
+10:06:15 [AntiHackServerInfo] Config loaded successfully
+10:06:15 [AntiHackServerInfo] DumpList loaded successfully
+10:06:15 [AntiHackServerInfo] ChecksumList loaded successfully
+10:06:15 [AntiHackServerInfo] InternalList loaded successfully
+10:06:15 [AntiHackServerInfo] WindowList loaded successfully
+10:06:15 [AntiHackServerInfo] BlackList loaded successfully
+10:08:45 [ClientManager][0] AddClient (127.0.0.1)
+10:08:45 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:08:57 [ClientManager][0] DelClient (127.0.0.1)
+10:09:44 [SocketManager] Server started at port [55999]
+10:09:44 [AntiHackServerInfo] Config loaded successfully
+10:09:44 [AntiHackServerInfo] DumpList loaded successfully
+10:09:44 [AntiHackServerInfo] ChecksumList loaded successfully
+10:09:44 [AntiHackServerInfo] InternalList loaded successfully
+10:09:44 [AntiHackServerInfo] WindowList loaded successfully
+10:09:44 [AntiHackServerInfo] BlackList loaded successfully
+10:10:33 [SocketManager] Server started at port [55999]
+10:10:33 [AntiHackServerInfo] Config loaded successfully
+10:10:33 [AntiHackServerInfo] DumpList loaded successfully
+10:10:33 [AntiHackServerInfo] ChecksumList loaded successfully
+10:10:33 [AntiHackServerInfo] InternalList loaded successfully
+10:10:33 [AntiHackServerInfo] WindowList loaded successfully
+10:10:33 [AntiHackServerInfo] BlackList loaded successfully
+10:11:23 [SocketManager] Server started at port [55999]
+10:11:23 [AntiHackServerInfo] Config loaded successfully
+10:11:23 [AntiHackServerInfo] DumpList loaded successfully
+10:11:23 [AntiHackServerInfo] ChecksumList loaded successfully
+10:11:23 [AntiHackServerInfo] InternalList loaded successfully
+10:11:23 [AntiHackServerInfo] WindowList loaded successfully
+10:11:23 [AntiHackServerInfo] BlackList loaded successfully
+10:12:19 [SocketManager] Server started at port [55999]
+10:12:19 [AntiHackServerInfo] Config loaded successfully
+10:12:19 [AntiHackServerInfo] DumpList loaded successfully
+10:12:19 [AntiHackServerInfo] ChecksumList loaded successfully
+10:12:19 [AntiHackServerInfo] InternalList loaded successfully
+10:12:19 [AntiHackServerInfo] WindowList loaded successfully
+10:12:19 [AntiHackServerInfo] BlackList loaded successfully
+10:12:43 [ClientManager][0] AddClient (127.0.0.1)
+10:12:43 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:13:25 [SocketManager] Server started at port [55999]
+10:13:25 [AntiHackServerInfo] Config loaded successfully
+10:13:25 [AntiHackServerInfo] DumpList loaded successfully
+10:13:25 [AntiHackServerInfo] ChecksumList loaded successfully
+10:13:25 [AntiHackServerInfo] InternalList loaded successfully
+10:13:25 [AntiHackServerInfo] WindowList loaded successfully
+10:13:25 [AntiHackServerInfo] BlackList loaded successfully
+10:13:43 [ClientManager][0] AddClient (127.0.0.1)
+10:13:43 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:14:47 [SocketManager] Server started at port [55999]
+10:14:47 [AntiHackServerInfo] Config loaded successfully
+10:14:47 [AntiHackServerInfo] DumpList loaded successfully
+10:14:47 [AntiHackServerInfo] ChecksumList loaded successfully
+10:14:47 [AntiHackServerInfo] InternalList loaded successfully
+10:14:47 [AntiHackServerInfo] WindowList loaded successfully
+10:14:47 [AntiHackServerInfo] BlackList loaded successfully
+10:14:50 [ClientManager][0] AddClient (127.0.0.1)
+10:14:50 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:15:40 [SocketManager] Server started at port [55999]
+10:15:40 [AntiHackServerInfo] Config loaded successfully
+10:15:40 [AntiHackServerInfo] DumpList loaded successfully
+10:15:40 [AntiHackServerInfo] ChecksumList loaded successfully
+10:15:40 [AntiHackServerInfo] InternalList loaded successfully
+10:15:40 [AntiHackServerInfo] WindowList loaded successfully
+10:15:40 [AntiHackServerInfo] BlackList loaded successfully
+10:15:44 [ClientManager][0] AddClient (127.0.0.1)
+10:15:44 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:16:34 [SocketManager] Server started at port [55999]
+10:16:34 [AntiHackServerInfo] Config loaded successfully
+10:16:34 [AntiHackServerInfo] DumpList loaded successfully
+10:16:34 [AntiHackServerInfo] ChecksumList loaded successfully
+10:16:34 [AntiHackServerInfo] InternalList loaded successfully
+10:16:34 [AntiHackServerInfo] WindowList loaded successfully
+10:16:34 [AntiHackServerInfo] BlackList loaded successfully
+10:16:41 [ClientManager][0] AddClient (127.0.0.1)
+10:16:41 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:17:09 [SocketManager] Server started at port [55999]
+10:17:09 [AntiHackServerInfo] Config loaded successfully
+10:17:09 [AntiHackServerInfo] DumpList loaded successfully
+10:17:09 [AntiHackServerInfo] ChecksumList loaded successfully
+10:17:09 [AntiHackServerInfo] InternalList loaded successfully
+10:17:09 [AntiHackServerInfo] WindowList loaded successfully
+10:17:09 [AntiHackServerInfo] BlackList loaded successfully
+10:17:14 [ClientManager][0] AddClient (127.0.0.1)
+10:17:14 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:18:35 [SocketManager] Server started at port [55999]
+10:18:35 [AntiHackServerInfo] Config loaded successfully
+10:18:35 [AntiHackServerInfo] DumpList loaded successfully
+10:18:35 [AntiHackServerInfo] ChecksumList loaded successfully
+10:18:35 [AntiHackServerInfo] InternalList loaded successfully
+10:18:35 [AntiHackServerInfo] WindowList loaded successfully
+10:18:35 [AntiHackServerInfo] BlackList loaded successfully
+10:18:38 [ClientManager][0] AddClient (127.0.0.1)
+10:18:38 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:19:28 [SocketManager] Server started at port [55999]
+10:19:28 [AntiHackServerInfo] Config loaded successfully
+10:19:28 [AntiHackServerInfo] DumpList loaded successfully
+10:19:28 [AntiHackServerInfo] ChecksumList loaded successfully
+10:19:28 [AntiHackServerInfo] InternalList loaded successfully
+10:19:28 [AntiHackServerInfo] WindowList loaded successfully
+10:19:28 [AntiHackServerInfo] BlackList loaded successfully
+10:19:45 [ClientManager][0] AddClient (127.0.0.1)
+10:19:45 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:21:11 [SocketManager] Server started at port [55999]
+10:21:11 [AntiHackServerInfo] Config loaded successfully
+10:21:11 [AntiHackServerInfo] DumpList loaded successfully
+10:21:11 [AntiHackServerInfo] ChecksumList loaded successfully
+10:21:11 [AntiHackServerInfo] InternalList loaded successfully
+10:21:11 [AntiHackServerInfo] WindowList loaded successfully
+10:21:11 [AntiHackServerInfo] BlackList loaded successfully
+10:21:19 [ClientManager][0] AddClient (127.0.0.1)
+10:21:19 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:22:24 [SocketManager] Server started at port [55999]
+10:22:24 [AntiHackServerInfo] Config loaded successfully
+10:22:24 [AntiHackServerInfo] DumpList loaded successfully
+10:22:24 [AntiHackServerInfo] ChecksumList loaded successfully
+10:22:24 [AntiHackServerInfo] InternalList loaded successfully
+10:22:24 [AntiHackServerInfo] WindowList loaded successfully
+10:22:24 [AntiHackServerInfo] BlackList loaded successfully
+10:22:30 [ClientManager][0] AddClient (127.0.0.1)
+10:22:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:22:54 [SocketManager] Server started at port [55999]
+10:22:54 [AntiHackServerInfo] Config loaded successfully
+10:22:54 [AntiHackServerInfo] DumpList loaded successfully
+10:22:54 [AntiHackServerInfo] ChecksumList loaded successfully
+10:22:54 [AntiHackServerInfo] InternalList loaded successfully
+10:22:54 [AntiHackServerInfo] WindowList loaded successfully
+10:22:54 [AntiHackServerInfo] BlackList loaded successfully
+10:23:08 [SocketManager] Server started at port [55999]
+10:23:08 [AntiHackServerInfo] Config loaded successfully
+10:23:08 [AntiHackServerInfo] DumpList loaded successfully
+10:23:08 [AntiHackServerInfo] ChecksumList loaded successfully
+10:23:08 [AntiHackServerInfo] InternalList loaded successfully
+10:23:08 [AntiHackServerInfo] WindowList loaded successfully
+10:23:08 [AntiHackServerInfo] BlackList loaded successfully
+10:23:14 [ClientManager][0] AddClient (127.0.0.1)
+10:23:14 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:24:15 [SocketManager] Server started at port [55999]
+10:24:15 [AntiHackServerInfo] Config loaded successfully
+10:24:15 [AntiHackServerInfo] DumpList loaded successfully
+10:24:15 [AntiHackServerInfo] ChecksumList loaded successfully
+10:24:15 [AntiHackServerInfo] InternalList loaded successfully
+10:24:15 [AntiHackServerInfo] WindowList loaded successfully
+10:24:15 [AntiHackServerInfo] BlackList loaded successfully
+10:24:30 [ClientManager][0] AddClient (127.0.0.1)
+10:24:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:24:56 [SocketManager] Server started at port [55999]
+10:24:56 [AntiHackServerInfo] Config loaded successfully
+10:24:56 [AntiHackServerInfo] DumpList loaded successfully
+10:24:56 [AntiHackServerInfo] ChecksumList loaded successfully
+10:24:56 [AntiHackServerInfo] InternalList loaded successfully
+10:24:56 [AntiHackServerInfo] WindowList loaded successfully
+10:24:56 [AntiHackServerInfo] BlackList loaded successfully
+10:25:17 [ClientManager][0] AddClient (127.0.0.1)
+10:25:17 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:27:22 [SocketManager] Server started at port [55999]
+10:27:22 [AntiHackServerInfo] Config loaded successfully
+10:27:22 [AntiHackServerInfo] DumpList loaded successfully
+10:27:22 [AntiHackServerInfo] ChecksumList loaded successfully
+10:27:22 [AntiHackServerInfo] InternalList loaded successfully
+10:27:22 [AntiHackServerInfo] WindowList loaded successfully
+10:27:22 [AntiHackServerInfo] BlackList loaded successfully
+10:27:26 [ClientManager][0] AddClient (127.0.0.1)
+10:27:26 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:29:41 [SocketManager] Server started at port [55999]
+10:29:41 [AntiHackServerInfo] Config loaded successfully
+10:29:41 [AntiHackServerInfo] DumpList loaded successfully
+10:29:41 [AntiHackServerInfo] ChecksumList loaded successfully
+10:29:41 [AntiHackServerInfo] InternalList loaded successfully
+10:29:41 [AntiHackServerInfo] WindowList loaded successfully
+10:29:41 [AntiHackServerInfo] BlackList loaded successfully
+10:29:45 [ClientManager][0] AddClient (127.0.0.1)
+10:29:45 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:31:08 [SocketManager] Server started at port [55999]
+10:31:08 [AntiHackServerInfo] Config loaded successfully
+10:31:08 [AntiHackServerInfo] DumpList loaded successfully
+10:31:08 [AntiHackServerInfo] ChecksumList loaded successfully
+10:31:08 [AntiHackServerInfo] InternalList loaded successfully
+10:31:08 [AntiHackServerInfo] WindowList loaded successfully
+10:31:08 [AntiHackServerInfo] BlackList loaded successfully
+10:33:12 [SocketManager] Server started at port [55999]
+10:33:12 [AntiHackServerInfo] Config loaded successfully
+10:33:12 [AntiHackServerInfo] DumpList loaded successfully
+10:33:12 [AntiHackServerInfo] ChecksumList loaded successfully
+10:33:12 [AntiHackServerInfo] InternalList loaded successfully
+10:33:12 [AntiHackServerInfo] WindowList loaded successfully
+10:33:12 [AntiHackServerInfo] BlackList loaded successfully
+10:33:34 [SocketManager] Server started at port [55999]
+10:33:34 [AntiHackServerInfo] Config loaded successfully
+10:33:34 [AntiHackServerInfo] DumpList loaded successfully
+10:33:34 [AntiHackServerInfo] ChecksumList loaded successfully
+10:33:34 [AntiHackServerInfo] InternalList loaded successfully
+10:33:34 [AntiHackServerInfo] WindowList loaded successfully
+10:33:34 [AntiHackServerInfo] BlackList loaded successfully
+10:33:37 [ClientManager][0] AddClient (127.0.0.1)
+10:33:37 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:33:49 [SocketManager] Server started at port [55999]
+10:33:49 [AntiHackServerInfo] Config loaded successfully
+10:33:49 [AntiHackServerInfo] DumpList loaded successfully
+10:33:49 [AntiHackServerInfo] ChecksumList loaded successfully
+10:33:49 [AntiHackServerInfo] InternalList loaded successfully
+10:33:49 [AntiHackServerInfo] WindowList loaded successfully
+10:33:49 [AntiHackServerInfo] BlackList loaded successfully
+10:34:04 [ClientManager][0] AddClient (127.0.0.1)
+10:34:04 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:35:09 [SocketManager] Server started at port [55999]
+10:35:09 [AntiHackServerInfo] Config loaded successfully
+10:35:09 [AntiHackServerInfo] DumpList loaded successfully
+10:35:09 [AntiHackServerInfo] ChecksumList loaded successfully
+10:35:09 [AntiHackServerInfo] InternalList loaded successfully
+10:35:09 [AntiHackServerInfo] WindowList loaded successfully
+10:35:09 [AntiHackServerInfo] BlackList loaded successfully
+10:35:24 [ClientManager][0] AddClient (127.0.0.1)
+10:35:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:38:08 [SocketManager] Server started at port [55999]
+10:38:08 [AntiHackServerInfo] Config loaded successfully
+10:38:08 [AntiHackServerInfo] DumpList loaded successfully
+10:38:08 [AntiHackServerInfo] ChecksumList loaded successfully
+10:38:08 [AntiHackServerInfo] InternalList loaded successfully
+10:38:08 [AntiHackServerInfo] WindowList loaded successfully
+10:38:08 [AntiHackServerInfo] BlackList loaded successfully
+10:39:13 [SocketManager] Server started at port [55999]
+10:39:13 [AntiHackServerInfo] Config loaded successfully
+10:39:13 [AntiHackServerInfo] DumpList loaded successfully
+10:39:13 [AntiHackServerInfo] ChecksumList loaded successfully
+10:39:13 [AntiHackServerInfo] InternalList loaded successfully
+10:39:13 [AntiHackServerInfo] WindowList loaded successfully
+10:39:13 [AntiHackServerInfo] BlackList loaded successfully
+10:39:43 [SocketManager] Server started at port [55999]
+10:39:43 [AntiHackServerInfo] Config loaded successfully
+10:39:43 [AntiHackServerInfo] DumpList loaded successfully
+10:39:43 [AntiHackServerInfo] ChecksumList loaded successfully
+10:39:43 [AntiHackServerInfo] InternalList loaded successfully
+10:39:43 [AntiHackServerInfo] WindowList loaded successfully
+10:39:43 [AntiHackServerInfo] BlackList loaded successfully
+10:39:59 [ClientManager][0] AddClient (127.0.0.1)
+10:39:59 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:41:41 [ClientManager][0] DelClient (127.0.0.1)
+10:41:48 [ClientManager][1] AddClient (127.0.0.1)
+10:41:48 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:51:16 [ClientManager][1] DelClient (127.0.0.1)
+10:51:21 [ClientManager][0] AddClient (127.0.0.1)
+10:51:21 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:55:15 [SocketManager] WSARecv() failed with error: 10054
+10:55:15 [ClientManager][0] DelClient (127.0.0.1)
+10:55:15 [ClientManager][1] AddClient (127.0.0.1)
+10:55:15 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:55:15 [ClientManager][2] AddClient (127.0.0.1)
+10:55:15 [ClientManager][2] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:55:21 [SocketManager] Server started at port [55999]
+10:55:21 [AntiHackServerInfo] Config loaded successfully
+10:55:21 [AntiHackServerInfo] DumpList loaded successfully
+10:55:21 [AntiHackServerInfo] ChecksumList loaded successfully
+10:55:21 [AntiHackServerInfo] InternalList loaded successfully
+10:55:21 [AntiHackServerInfo] WindowList loaded successfully
+10:55:21 [AntiHackServerInfo] BlackList loaded successfully
+10:55:32 [ClientManager][0] AddClient (127.0.0.1)
+10:55:32 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:55:39 [ClientManager][1] AddClient (127.0.0.1)
+10:55:39 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:58:33 [SocketManager] Server started at port [55999]
+10:58:33 [AntiHackServerInfo] Config loaded successfully
+10:58:33 [AntiHackServerInfo] DumpList loaded successfully
+10:58:33 [AntiHackServerInfo] ChecksumList loaded successfully
+10:58:33 [AntiHackServerInfo] InternalList loaded successfully
+10:58:33 [AntiHackServerInfo] WindowList loaded successfully
+10:58:33 [AntiHackServerInfo] BlackList loaded successfully
+10:58:38 [ClientManager][0] AddClient (127.0.0.1)
+10:58:38 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+10:59:16 [SocketManager] Server started at port [55999]
+10:59:16 [AntiHackServerInfo] Config loaded successfully
+10:59:16 [AntiHackServerInfo] DumpList loaded successfully
+10:59:16 [AntiHackServerInfo] ChecksumList loaded successfully
+10:59:16 [AntiHackServerInfo] InternalList loaded successfully
+10:59:16 [AntiHackServerInfo] WindowList loaded successfully
+10:59:16 [AntiHackServerInfo] BlackList loaded successfully
+10:59:29 [ClientManager][0] AddClient (127.0.0.1)
+10:59:29 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:00:16 [SocketManager] Server started at port [55999]
+11:00:16 [AntiHackServerInfo] Config loaded successfully
+11:00:16 [AntiHackServerInfo] DumpList loaded successfully
+11:00:16 [AntiHackServerInfo] ChecksumList loaded successfully
+11:00:16 [AntiHackServerInfo] InternalList loaded successfully
+11:00:16 [AntiHackServerInfo] WindowList loaded successfully
+11:00:16 [AntiHackServerInfo] BlackList loaded successfully
+11:00:27 [ClientManager][0] AddClient (127.0.0.1)
+11:00:27 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:01:57 [SocketManager] Server started at port [55999]
+11:01:57 [AntiHackServerInfo] Config loaded successfully
+11:01:57 [AntiHackServerInfo] DumpList loaded successfully
+11:01:57 [AntiHackServerInfo] ChecksumList loaded successfully
+11:01:57 [AntiHackServerInfo] InternalList loaded successfully
+11:01:57 [AntiHackServerInfo] WindowList loaded successfully
+11:01:57 [AntiHackServerInfo] BlackList loaded successfully
+11:02:00 [ClientManager][0] AddClient (127.0.0.1)
+11:02:00 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:09:37 [SocketManager] Server started at port [55999]
+11:09:37 [AntiHackServerInfo] Config loaded successfully
+11:09:37 [AntiHackServerInfo] DumpList loaded successfully
+11:09:37 [AntiHackServerInfo] ChecksumList loaded successfully
+11:09:37 [AntiHackServerInfo] InternalList loaded successfully
+11:09:37 [AntiHackServerInfo] WindowList loaded successfully
+11:09:37 [AntiHackServerInfo] BlackList loaded successfully
+11:09:40 [ClientManager][0] AddClient (127.0.0.1)
+11:09:40 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:09:55 [SocketManager] Server started at port [55999]
+11:09:55 [AntiHackServerInfo] Config loaded successfully
+11:09:55 [AntiHackServerInfo] DumpList loaded successfully
+11:09:55 [AntiHackServerInfo] ChecksumList loaded successfully
+11:09:55 [AntiHackServerInfo] InternalList loaded successfully
+11:09:55 [AntiHackServerInfo] WindowList loaded successfully
+11:09:55 [AntiHackServerInfo] BlackList loaded successfully
+11:09:58 [ClientManager][0] AddClient (127.0.0.1)
+11:09:58 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:13:11 [SocketManager] Server started at port [55999]
+11:13:11 [AntiHackServerInfo] Config loaded successfully
+11:13:11 [AntiHackServerInfo] DumpList loaded successfully
+11:13:11 [AntiHackServerInfo] ChecksumList loaded successfully
+11:13:11 [AntiHackServerInfo] InternalList loaded successfully
+11:13:11 [AntiHackServerInfo] WindowList loaded successfully
+11:13:11 [AntiHackServerInfo] BlackList loaded successfully
+11:13:39 [ClientManager][0] AddClient (127.0.0.1)
+11:13:39 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:29:53 [SocketManager] Server started at port [55999]
+11:29:53 [AntiHackServerInfo] Config loaded successfully
+11:29:53 [AntiHackServerInfo] DumpList loaded successfully
+11:29:53 [AntiHackServerInfo] ChecksumList loaded successfully
+11:29:53 [AntiHackServerInfo] InternalList loaded successfully
+11:29:53 [AntiHackServerInfo] WindowList loaded successfully
+11:29:53 [AntiHackServerInfo] BlackList loaded successfully
+11:33:36 [ClientManager][0] AddClient (127.0.0.1)
+11:33:36 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:46:59 [ClientManager][0] DelClient (127.0.0.1)
+11:47:11 [ClientManager][0] AddClient (127.0.0.1)
+11:47:11 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:48:43 [ClientManager][0] DelClient (127.0.0.1)
+11:49:22 [ClientManager][0] AddClient (127.0.0.1)
+11:49:22 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:54:44 [SocketManager] Server started at port [55999]
+11:54:44 [AntiHackServerInfo] Config loaded successfully
+11:54:44 [AntiHackServerInfo] DumpList loaded successfully
+11:54:44 [AntiHackServerInfo] ChecksumList loaded successfully
+11:54:44 [AntiHackServerInfo] InternalList loaded successfully
+11:54:44 [AntiHackServerInfo] WindowList loaded successfully
+11:54:44 [AntiHackServerInfo] BlackList loaded successfully
+11:54:48 [ClientManager][0] AddClient (127.0.0.1)
+11:55:28 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+11:55:54 [SocketManager] Server started at port [55999]
+11:55:54 [AntiHackServerInfo] Config loaded successfully
+11:55:54 [AntiHackServerInfo] DumpList loaded successfully
+11:55:54 [AntiHackServerInfo] ChecksumList loaded successfully
+11:55:54 [AntiHackServerInfo] InternalList loaded successfully
+11:55:54 [AntiHackServerInfo] WindowList loaded successfully
+11:55:54 [AntiHackServerInfo] BlackList loaded successfully
+13:00:34 [SocketManager] Server started at port [55999]
+13:00:34 [AntiHackServerInfo] Config loaded successfully
+13:00:34 [AntiHackServerInfo] DumpList loaded successfully
+13:00:34 [AntiHackServerInfo] ChecksumList loaded successfully
+13:00:34 [AntiHackServerInfo] InternalList loaded successfully
+13:00:34 [AntiHackServerInfo] WindowList loaded successfully
+13:00:34 [AntiHackServerInfo] BlackList loaded successfully
+13:00:48 [ClientManager][0] AddClient (127.0.0.1)
+13:00:48 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+13:02:02 [SocketManager] Server started at port [55999]
+13:02:02 [AntiHackServerInfo] Config loaded successfully
+13:02:02 [AntiHackServerInfo] DumpList loaded successfully
+13:02:02 [AntiHackServerInfo] ChecksumList loaded successfully
+13:02:02 [AntiHackServerInfo] InternalList loaded successfully
+13:02:02 [AntiHackServerInfo] WindowList loaded successfully
+13:02:02 [AntiHackServerInfo] BlackList loaded successfully
+13:02:18 [SocketManager] Server started at port [55999]
+13:02:18 [AntiHackServerInfo] Config loaded successfully
+13:02:18 [AntiHackServerInfo] DumpList loaded successfully
+13:02:18 [AntiHackServerInfo] ChecksumList loaded successfully
+13:02:18 [AntiHackServerInfo] InternalList loaded successfully
+13:02:18 [AntiHackServerInfo] WindowList loaded successfully
+13:02:18 [AntiHackServerInfo] BlackList loaded successfully
+13:02:20 [ClientManager][0] AddClient (127.0.0.1)
+13:02:20 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+13:03:32 [SocketManager] Server started at port [55999]
+13:03:32 [AntiHackServerInfo] Config loaded successfully
+13:03:32 [AntiHackServerInfo] DumpList loaded successfully
+13:03:32 [AntiHackServerInfo] ChecksumList loaded successfully
+13:03:32 [AntiHackServerInfo] InternalList loaded successfully
+13:03:32 [AntiHackServerInfo] WindowList loaded successfully
+13:03:32 [AntiHackServerInfo] BlackList loaded successfully
+13:03:45 [ClientManager][0] AddClient (127.0.0.1)
+13:03:45 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+13:05:35 [SocketManager] Server started at port [55999]
+13:05:35 [AntiHackServerInfo] Config loaded successfully
+13:05:35 [AntiHackServerInfo] DumpList loaded successfully
+13:05:35 [AntiHackServerInfo] ChecksumList loaded successfully
+13:05:35 [AntiHackServerInfo] InternalList loaded successfully
+13:05:35 [AntiHackServerInfo] WindowList loaded successfully
+13:05:35 [AntiHackServerInfo] BlackList loaded successfully
+13:05:39 [ClientManager][0] AddClient (127.0.0.1)
+13:05:39 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+13:05:52 [SocketManager] Server started at port [55999]
+13:05:52 [AntiHackServerInfo] Config loaded successfully
+13:05:52 [AntiHackServerInfo] DumpList loaded successfully
+13:05:52 [AntiHackServerInfo] ChecksumList loaded successfully
+13:05:52 [AntiHackServerInfo] InternalList loaded successfully
+13:05:52 [AntiHackServerInfo] WindowList loaded successfully
+13:05:52 [AntiHackServerInfo] BlackList loaded successfully
+13:05:56 [ClientManager][0] AddClient (127.0.0.1)
+13:05:56 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+13:07:40 [SocketManager] Server started at port [55999]
+13:07:40 [AntiHackServerInfo] Config loaded successfully
+13:07:40 [AntiHackServerInfo] DumpList loaded successfully
+13:07:40 [AntiHackServerInfo] ChecksumList loaded successfully
+13:07:40 [AntiHackServerInfo] InternalList loaded successfully
+13:07:40 [AntiHackServerInfo] WindowList loaded successfully
+13:07:40 [AntiHackServerInfo] BlackList loaded successfully
+13:07:44 [ClientManager][0] AddClient (127.0.0.1)
+13:07:44 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+13:10:34 [SocketManager] Server started at port [55999]
+13:10:34 [AntiHackServerInfo] Config loaded successfully
+13:10:34 [AntiHackServerInfo] DumpList loaded successfully
+13:10:34 [AntiHackServerInfo] ChecksumList loaded successfully
+13:10:34 [AntiHackServerInfo] InternalList loaded successfully
+13:10:34 [AntiHackServerInfo] WindowList loaded successfully
+13:10:34 [AntiHackServerInfo] BlackList loaded successfully
+13:10:37 [ClientManager][0] AddClient (127.0.0.1)
+13:10:37 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+13:11:38 [SocketManager] Server started at port [55999]
+13:11:38 [AntiHackServerInfo] Config loaded successfully
+13:11:38 [AntiHackServerInfo] DumpList loaded successfully
+13:11:38 [AntiHackServerInfo] ChecksumList loaded successfully
+13:11:38 [AntiHackServerInfo] InternalList loaded successfully
+13:11:38 [AntiHackServerInfo] WindowList loaded successfully
+13:11:38 [AntiHackServerInfo] BlackList loaded successfully
+13:11:52 [ClientManager][0] AddClient (127.0.0.1)
+13:19:33 [SocketManager] Server started at port [55999]
+13:19:33 [AntiHackServerInfo] Config loaded successfully
+13:19:33 [AntiHackServerInfo] DumpList loaded successfully
+13:19:33 [AntiHackServerInfo] ChecksumList loaded successfully
+13:19:33 [AntiHackServerInfo] InternalList loaded successfully
+13:19:33 [AntiHackServerInfo] WindowList loaded successfully
+13:19:33 [AntiHackServerInfo] BlackList loaded successfully
+13:19:39 [ClientManager][0] AddClient (127.0.0.1)
+13:19:39 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:22:49 [ClientManager][0] DelClient (127.0.0.1)
+14:22:53 [ClientManager][1] AddClient (127.0.0.1)
+14:22:53 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:24:20 [ClientManager][1] DelClient (127.0.0.1)
+14:24:31 [SocketManager] Server started at port [55999]
+14:24:31 [AntiHackServerInfo] Config loaded successfully
+14:24:31 [AntiHackServerInfo] DumpList loaded successfully
+14:24:31 [AntiHackServerInfo] ChecksumList loaded successfully
+14:24:31 [AntiHackServerInfo] InternalList loaded successfully
+14:24:31 [AntiHackServerInfo] WindowList loaded successfully
+14:24:31 [AntiHackServerInfo] BlackList loaded successfully
+14:24:34 [ClientManager][0] AddClient (127.0.0.1)
+14:24:34 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:27:54 [SocketManager] Server started at port [55999]
+14:27:54 [AntiHackServerInfo] Config loaded successfully
+14:27:54 [AntiHackServerInfo] DumpList loaded successfully
+14:27:54 [AntiHackServerInfo] ChecksumList loaded successfully
+14:27:54 [AntiHackServerInfo] InternalList loaded successfully
+14:27:54 [AntiHackServerInfo] WindowList loaded successfully
+14:27:54 [AntiHackServerInfo] BlackList loaded successfully
+14:28:15 [ClientManager][0] AddClient (127.0.0.1)
+14:28:15 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:28:17 [ClientManager][0] DelClient (127.0.0.1)
+14:28:30 [ClientManager][0] AddClient (127.0.0.1)
+14:28:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:28:33 [ClientManager][0] DelClient (127.0.0.1)
+14:29:03 [ClientManager][0] AddClient (127.0.0.1)
+14:29:03 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:29:46 [ClientManager][0] DelClient (127.0.0.1)
+14:29:53 [ClientManager][1] AddClient (127.0.0.1)
+14:29:53 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:29:55 [ClientManager][1] DelClient (127.0.0.1)
+14:30:17 [ClientManager][0] AddClient (127.0.0.1)
+14:30:17 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:30:20 [ClientManager][0] DelClient (127.0.0.1)
+14:31:37 [ClientManager][1] AddClient (127.0.0.1)
+14:31:37 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:31:39 [ClientManager][1] DelClient (127.0.0.1)
+14:32:42 [ClientManager][0] AddClient (127.0.0.1)
+14:32:42 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:32:44 [ClientManager][0] DelClient (127.0.0.1)
+14:34:22 [ClientManager][1] AddClient (127.0.0.1)
+14:34:22 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:34:37 [SocketManager] Server started at port [55999]
+14:34:37 [AntiHackServerInfo] Config loaded successfully
+14:34:37 [AntiHackServerInfo] DumpList loaded successfully
+14:34:37 [AntiHackServerInfo] ChecksumList loaded successfully
+14:34:37 [AntiHackServerInfo] InternalList loaded successfully
+14:34:37 [AntiHackServerInfo] WindowList loaded successfully
+14:34:37 [AntiHackServerInfo] BlackList loaded successfully
+14:34:52 [ClientManager][0] AddClient (127.0.0.1)
+14:34:52 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:38:46 [SocketManager] Server started at port [55999]
+14:38:46 [AntiHackServerInfo] Config loaded successfully
+14:38:46 [AntiHackServerInfo] DumpList loaded successfully
+14:38:46 [AntiHackServerInfo] ChecksumList loaded successfully
+14:38:46 [AntiHackServerInfo] InternalList loaded successfully
+14:38:46 [AntiHackServerInfo] WindowList loaded successfully
+14:38:46 [AntiHackServerInfo] BlackList loaded successfully
+14:38:49 [ClientManager][0] AddClient (127.0.0.1)
+14:38:49 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:40:57 [ClientManager][0] DelClient (127.0.0.1)
+14:40:59 [ClientManager][1] AddClient (127.0.0.1)
+14:41:23 [ClientManager][1] DelClient (127.0.0.1)
+14:41:25 [ClientManager][1] ClientInfo (HardwareId: )
+14:44:13 [SocketManager] Server started at port [55999]
+14:44:13 [AntiHackServerInfo] Config loaded successfully
+14:44:13 [AntiHackServerInfo] DumpList loaded successfully
+14:44:13 [AntiHackServerInfo] ChecksumList loaded successfully
+14:44:13 [AntiHackServerInfo] InternalList loaded successfully
+14:44:13 [AntiHackServerInfo] WindowList loaded successfully
+14:44:13 [AntiHackServerInfo] BlackList loaded successfully
+14:44:29 [ClientManager][0] AddClient (127.0.0.1)
+14:44:29 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:46:48 [SocketManager] Server started at port [55999]
+14:46:48 [AntiHackServerInfo] Config loaded successfully
+14:46:48 [AntiHackServerInfo] DumpList loaded successfully
+14:46:48 [AntiHackServerInfo] ChecksumList loaded successfully
+14:46:48 [AntiHackServerInfo] InternalList loaded successfully
+14:46:48 [AntiHackServerInfo] WindowList loaded successfully
+14:46:48 [AntiHackServerInfo] BlackList loaded successfully
+14:46:53 [ClientManager][0] AddClient (127.0.0.1)
+14:47:55 [SocketManager] Server started at port [55999]
+14:47:55 [AntiHackServerInfo] Config loaded successfully
+14:47:55 [AntiHackServerInfo] DumpList loaded successfully
+14:47:55 [AntiHackServerInfo] ChecksumList loaded successfully
+14:47:55 [AntiHackServerInfo] InternalList loaded successfully
+14:47:55 [AntiHackServerInfo] WindowList loaded successfully
+14:47:55 [AntiHackServerInfo] BlackList loaded successfully
+14:47:59 [ClientManager][0] AddClient (127.0.0.1)
+14:48:39 [SocketManager] Server started at port [55999]
+14:48:39 [AntiHackServerInfo] Config loaded successfully
+14:48:39 [AntiHackServerInfo] DumpList loaded successfully
+14:48:39 [AntiHackServerInfo] ChecksumList loaded successfully
+14:48:39 [AntiHackServerInfo] InternalList loaded successfully
+14:48:39 [AntiHackServerInfo] WindowList loaded successfully
+14:48:39 [AntiHackServerInfo] BlackList loaded successfully
+14:48:43 [ClientManager][0] AddClient (127.0.0.1)
+14:49:31 [SocketManager] Server started at port [55999]
+14:49:31 [AntiHackServerInfo] Config loaded successfully
+14:49:31 [AntiHackServerInfo] DumpList loaded successfully
+14:49:31 [AntiHackServerInfo] ChecksumList loaded successfully
+14:49:31 [AntiHackServerInfo] InternalList loaded successfully
+14:49:31 [AntiHackServerInfo] WindowList loaded successfully
+14:49:31 [AntiHackServerInfo] BlackList loaded successfully
+14:49:36 [ClientManager][0] AddClient (127.0.0.1)
+14:52:32 [SocketManager] Server started at port [55999]
+14:52:32 [AntiHackServerInfo] Config loaded successfully
+14:52:32 [AntiHackServerInfo] DumpList loaded successfully
+14:52:32 [AntiHackServerInfo] ChecksumList loaded successfully
+14:52:32 [AntiHackServerInfo] InternalList loaded successfully
+14:52:32 [AntiHackServerInfo] WindowList loaded successfully
+14:52:32 [AntiHackServerInfo] BlackList loaded successfully
+14:52:45 [ClientManager][0] AddClient (127.0.0.1)
+14:52:45 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:53:03 [ClientManager][0] DelClient (127.0.0.1)
+14:53:08 [SocketManager] Server started at port [55999]
+14:53:08 [AntiHackServerInfo] Config loaded successfully
+14:53:08 [AntiHackServerInfo] DumpList loaded successfully
+14:53:08 [AntiHackServerInfo] ChecksumList loaded successfully
+14:53:08 [AntiHackServerInfo] InternalList loaded successfully
+14:53:08 [AntiHackServerInfo] WindowList loaded successfully
+14:53:08 [AntiHackServerInfo] BlackList loaded successfully
+14:53:11 [ClientManager][0] AddClient (127.0.0.1)
+14:56:30 [SocketManager] Server started at port [55999]
+14:56:30 [AntiHackServerInfo] Config loaded successfully
+14:56:30 [AntiHackServerInfo] DumpList loaded successfully
+14:56:30 [AntiHackServerInfo] ChecksumList loaded successfully
+14:56:30 [AntiHackServerInfo] InternalList loaded successfully
+14:56:30 [AntiHackServerInfo] WindowList loaded successfully
+14:56:30 [AntiHackServerInfo] BlackList loaded successfully
+14:56:36 [ClientManager][0] AddClient (127.0.0.1)
+14:56:36 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:58:02 [SocketManager] Server started at port [55999]
+14:58:02 [AntiHackServerInfo] Config loaded successfully
+14:58:02 [AntiHackServerInfo] DumpList loaded successfully
+14:58:02 [AntiHackServerInfo] ChecksumList loaded successfully
+14:58:02 [AntiHackServerInfo] InternalList loaded successfully
+14:58:02 [AntiHackServerInfo] WindowList loaded successfully
+14:58:02 [AntiHackServerInfo] BlackList loaded successfully
+14:58:07 [ClientManager][0] AddClient (127.0.0.1)
+14:58:07 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+14:59:54 [SocketManager] Server started at port [55999]
+14:59:54 [AntiHackServerInfo] Config loaded successfully
+14:59:54 [AntiHackServerInfo] DumpList loaded successfully
+14:59:54 [AntiHackServerInfo] ChecksumList loaded successfully
+14:59:54 [AntiHackServerInfo] InternalList loaded successfully
+14:59:54 [AntiHackServerInfo] WindowList loaded successfully
+14:59:54 [AntiHackServerInfo] BlackList loaded successfully
+14:59:58 [ClientManager][0] AddClient (127.0.0.1)
+14:59:58 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:00:00 [ClientManager][0] DelClient (127.0.0.1)
+15:00:40 [ClientManager][0] AddClient (127.0.0.1)
+15:00:40 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:00:42 [ClientManager][0] DelClient (127.0.0.1)
+15:04:38 [ClientManager][0] AddClient (127.0.0.1)
+15:04:38 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:05:05 [SocketManager] Server started at port [55999]
+15:05:05 [AntiHackServerInfo] Config loaded successfully
+15:05:05 [AntiHackServerInfo] DumpList loaded successfully
+15:05:05 [AntiHackServerInfo] ChecksumList loaded successfully
+15:05:05 [AntiHackServerInfo] InternalList loaded successfully
+15:05:05 [AntiHackServerInfo] WindowList loaded successfully
+15:05:05 [AntiHackServerInfo] BlackList loaded successfully
+15:05:17 [ClientManager][0] AddClient (127.0.0.1)
+15:05:17 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:06:22 [SocketManager] Server started at port [55999]
+15:06:22 [AntiHackServerInfo] Config loaded successfully
+15:06:22 [AntiHackServerInfo] DumpList loaded successfully
+15:06:22 [AntiHackServerInfo] ChecksumList loaded successfully
+15:06:22 [AntiHackServerInfo] InternalList loaded successfully
+15:06:22 [AntiHackServerInfo] WindowList loaded successfully
+15:06:22 [AntiHackServerInfo] BlackList loaded successfully
+15:06:31 [ClientManager][0] AddClient (127.0.0.1)
+15:06:31 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:07:14 [ClientManager][0] DelClient (127.0.0.1)
+15:07:30 [ClientManager][0] AddClient (127.0.0.1)
+15:07:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:07:58 [ClientManager][0] DelClient (127.0.0.1)
+15:08:44 [ClientManager][0] AddClient (127.0.0.1)
+15:08:44 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:09:13 [ClientManager][0] DelClient (127.0.0.1)
+15:10:33 [SocketManager] Server started at port [55999]
+15:10:33 [AntiHackServerInfo] Config loaded successfully
+15:10:34 [AntiHackServerInfo] DumpList loaded successfully
+15:10:34 [AntiHackServerInfo] ChecksumList loaded successfully
+15:10:34 [AntiHackServerInfo] InternalList loaded successfully
+15:10:34 [AntiHackServerInfo] WindowList loaded successfully
+15:10:34 [AntiHackServerInfo] BlackList loaded successfully
+15:10:41 [ClientManager][0] AddClient (127.0.0.1)
+15:10:41 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:11:34 [SocketManager] Server started at port [55999]
+15:11:34 [AntiHackServerInfo] Config loaded successfully
+15:11:34 [AntiHackServerInfo] DumpList loaded successfully
+15:11:34 [AntiHackServerInfo] ChecksumList loaded successfully
+15:11:34 [AntiHackServerInfo] InternalList loaded successfully
+15:11:34 [AntiHackServerInfo] WindowList loaded successfully
+15:11:34 [AntiHackServerInfo] BlackList loaded successfully
+15:11:38 [ClientManager][0] AddClient (127.0.0.1)
+15:11:38 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:11:59 [ClientManager][0] DelClient (127.0.0.1)
+15:12:07 [SocketManager] Server started at port [55999]
+15:12:07 [AntiHackServerInfo] Config loaded successfully
+15:12:07 [AntiHackServerInfo] DumpList loaded successfully
+15:12:07 [AntiHackServerInfo] ChecksumList loaded successfully
+15:12:07 [AntiHackServerInfo] InternalList loaded successfully
+15:12:07 [AntiHackServerInfo] WindowList loaded successfully
+15:12:07 [AntiHackServerInfo] BlackList loaded successfully
+15:12:11 [ClientManager][0] AddClient (127.0.0.1)
+15:12:11 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:13:09 [SocketManager] Server started at port [55999]
+15:13:09 [AntiHackServerInfo] Config loaded successfully
+15:13:09 [AntiHackServerInfo] DumpList loaded successfully
+15:13:09 [AntiHackServerInfo] ChecksumList loaded successfully
+15:13:09 [AntiHackServerInfo] InternalList loaded successfully
+15:13:09 [AntiHackServerInfo] WindowList loaded successfully
+15:13:09 [AntiHackServerInfo] BlackList loaded successfully
+15:13:13 [ClientManager][0] AddClient (127.0.0.1)
+15:13:13 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:15:59 [SocketManager] Server started at port [55999]
+15:15:59 [AntiHackServerInfo] Config loaded successfully
+15:15:59 [AntiHackServerInfo] DumpList loaded successfully
+15:15:59 [AntiHackServerInfo] ChecksumList loaded successfully
+15:15:59 [AntiHackServerInfo] InternalList loaded successfully
+15:15:59 [AntiHackServerInfo] WindowList loaded successfully
+15:15:59 [AntiHackServerInfo] BlackList loaded successfully
+15:16:02 [ClientManager][0] AddClient (127.0.0.1)
+15:16:02 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:18:13 [SocketManager] Server started at port [55999]
+15:18:13 [AntiHackServerInfo] Config loaded successfully
+15:18:13 [AntiHackServerInfo] DumpList loaded successfully
+15:18:13 [AntiHackServerInfo] ChecksumList loaded successfully
+15:18:13 [AntiHackServerInfo] InternalList loaded successfully
+15:18:13 [AntiHackServerInfo] WindowList loaded successfully
+15:18:13 [AntiHackServerInfo] BlackList loaded successfully
+15:18:17 [ClientManager][0] AddClient (127.0.0.1)
+15:18:17 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:18:39 [SocketManager] Server started at port [55999]
+15:18:39 [AntiHackServerInfo] Config loaded successfully
+15:18:39 [AntiHackServerInfo] DumpList loaded successfully
+15:18:39 [AntiHackServerInfo] ChecksumList loaded successfully
+15:18:39 [AntiHackServerInfo] InternalList loaded successfully
+15:18:39 [AntiHackServerInfo] WindowList loaded successfully
+15:18:39 [AntiHackServerInfo] BlackList loaded successfully
+15:18:44 [ClientManager][0] AddClient (127.0.0.1)
+15:18:44 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:19:41 [SocketManager] Server started at port [55999]
+15:19:41 [AntiHackServerInfo] Config loaded successfully
+15:19:41 [AntiHackServerInfo] DumpList loaded successfully
+15:19:41 [AntiHackServerInfo] ChecksumList loaded successfully
+15:19:41 [AntiHackServerInfo] InternalList loaded successfully
+15:19:41 [AntiHackServerInfo] WindowList loaded successfully
+15:19:41 [AntiHackServerInfo] BlackList loaded successfully
+15:19:44 [ClientManager][0] AddClient (127.0.0.1)
+15:19:44 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:21:17 [SocketManager] Server started at port [55999]
+15:21:17 [AntiHackServerInfo] Config loaded successfully
+15:21:17 [AntiHackServerInfo] DumpList loaded successfully
+15:21:17 [AntiHackServerInfo] ChecksumList loaded successfully
+15:21:17 [AntiHackServerInfo] InternalList loaded successfully
+15:21:17 [AntiHackServerInfo] WindowList loaded successfully
+15:21:17 [AntiHackServerInfo] BlackList loaded successfully
+15:21:20 [ClientManager][0] AddClient (127.0.0.1)
+15:21:20 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:21:41 [SocketManager] Server started at port [55999]
+15:21:41 [AntiHackServerInfo] Config loaded successfully
+15:21:41 [AntiHackServerInfo] DumpList loaded successfully
+15:21:41 [AntiHackServerInfo] ChecksumList loaded successfully
+15:21:41 [AntiHackServerInfo] InternalList loaded successfully
+15:21:41 [AntiHackServerInfo] WindowList loaded successfully
+15:21:41 [AntiHackServerInfo] BlackList loaded successfully
+15:21:47 [ClientManager][0] AddClient (127.0.0.1)
+15:21:47 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:22:45 [SocketManager] Server started at port [55999]
+15:22:45 [AntiHackServerInfo] Config loaded successfully
+15:22:45 [AntiHackServerInfo] DumpList loaded successfully
+15:22:45 [AntiHackServerInfo] ChecksumList loaded successfully
+15:22:45 [AntiHackServerInfo] InternalList loaded successfully
+15:22:45 [AntiHackServerInfo] WindowList loaded successfully
+15:22:45 [AntiHackServerInfo] BlackList loaded successfully
+15:22:49 [ClientManager][0] AddClient (127.0.0.1)
+15:22:49 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:23:37 [ClientManager][0] DelClient (127.0.0.1)
+15:23:38 [ClientManager][1] AddClient (127.0.0.1)
+15:23:38 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:24:00 [ClientManager][1] DelClient (127.0.0.1)
+15:24:06 [SocketManager] Server started at port [55999]
+15:24:06 [AntiHackServerInfo] Config loaded successfully
+15:24:06 [AntiHackServerInfo] DumpList loaded successfully
+15:24:06 [AntiHackServerInfo] ChecksumList loaded successfully
+15:24:06 [AntiHackServerInfo] InternalList loaded successfully
+15:24:06 [AntiHackServerInfo] WindowList loaded successfully
+15:24:06 [AntiHackServerInfo] BlackList loaded successfully
+15:24:09 [ClientManager][0] AddClient (127.0.0.1)
+15:24:09 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:24:31 [SocketManager] Server started at port [55999]
+15:24:31 [AntiHackServerInfo] Config loaded successfully
+15:24:31 [AntiHackServerInfo] DumpList loaded successfully
+15:24:31 [AntiHackServerInfo] ChecksumList loaded successfully
+15:24:31 [AntiHackServerInfo] InternalList loaded successfully
+15:24:31 [AntiHackServerInfo] WindowList loaded successfully
+15:24:31 [AntiHackServerInfo] BlackList loaded successfully
+15:24:34 [ClientManager][0] AddClient (127.0.0.1)
+15:24:34 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:25:52 [SocketManager] Server started at port [55999]
+15:25:52 [AntiHackServerInfo] Config loaded successfully
+15:25:52 [AntiHackServerInfo] DumpList loaded successfully
+15:25:52 [AntiHackServerInfo] ChecksumList loaded successfully
+15:25:52 [AntiHackServerInfo] InternalList loaded successfully
+15:25:52 [AntiHackServerInfo] WindowList loaded successfully
+15:25:52 [AntiHackServerInfo] BlackList loaded successfully
+15:25:54 [ClientManager][0] AddClient (127.0.0.1)
+15:25:54 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:26:55 [ClientManager][0] DelClient (127.0.0.1)
+15:27:40 [SocketManager] Server started at port [55999]
+15:27:40 [AntiHackServerInfo] Config loaded successfully
+15:27:40 [AntiHackServerInfo] DumpList loaded successfully
+15:27:40 [AntiHackServerInfo] ChecksumList loaded successfully
+15:27:40 [AntiHackServerInfo] InternalList loaded successfully
+15:27:40 [AntiHackServerInfo] WindowList loaded successfully
+15:27:40 [AntiHackServerInfo] BlackList loaded successfully
+15:27:43 [ClientManager][0] AddClient (127.0.0.1)
+15:27:43 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:28:51 [SocketManager] Server started at port [55999]
+15:28:51 [AntiHackServerInfo] Config loaded successfully
+15:28:51 [AntiHackServerInfo] DumpList loaded successfully
+15:28:51 [AntiHackServerInfo] ChecksumList loaded successfully
+15:28:51 [AntiHackServerInfo] InternalList loaded successfully
+15:28:51 [AntiHackServerInfo] WindowList loaded successfully
+15:28:51 [AntiHackServerInfo] BlackList loaded successfully
+15:28:59 [ClientManager][0] AddClient (127.0.0.1)
+15:28:59 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:37:26 [ClientManager][0] DelClient (127.0.0.1)
+15:37:34 [ClientManager][1] AddClient (127.0.0.1)
+15:37:34 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:37:36 [ClientManager][1] DelClient (127.0.0.1)
+15:38:31 [ClientManager][0] AddClient (127.0.0.1)
+15:38:31 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:38:33 [ClientManager][0] DelClient (127.0.0.1)
+15:38:41 [ClientManager][1] AddClient (127.0.0.1)
+15:38:41 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:38:43 [ClientManager][1] DelClient (127.0.0.1)
+15:41:26 [ClientManager][0] AddClient (127.0.0.1)
+15:41:26 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:41:28 [ClientManager][0] DelClient (127.0.0.1)
+15:42:01 [ClientManager][1] AddClient (127.0.0.1)
+15:42:01 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:42:26 [ClientManager][1] DelClient (127.0.0.1)
+15:43:41 [SocketManager] Server started at port [55999]
+15:43:41 [AntiHackServerInfo] Config loaded successfully
+15:43:41 [AntiHackServerInfo] DumpList loaded successfully
+15:43:41 [AntiHackServerInfo] ChecksumList loaded successfully
+15:43:41 [AntiHackServerInfo] InternalList loaded successfully
+15:43:41 [AntiHackServerInfo] WindowList loaded successfully
+15:43:41 [AntiHackServerInfo] BlackList loaded successfully
+15:43:43 [ClientManager][0] AddClient (127.0.0.1)
+15:43:43 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:47:19 [ClientManager][0] DelClient (127.0.0.1)
+15:47:22 [ClientManager][1] AddClient (127.0.0.1)
+15:47:22 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:48:15 [ClientManager][1] DelClient (127.0.0.1)
+15:48:24 [ClientManager][0] AddClient (127.0.0.1)
+15:48:24 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:48:57 [ClientManager][0] DelClient (127.0.0.1)
+15:49:43 [ClientManager][1] AddClient (127.0.0.1)
+15:49:43 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:50:03 [ClientManager][1] DelClient (127.0.0.1)
+15:50:06 [ClientManager][0] AddClient (127.0.0.1)
+15:50:06 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+15:50:28 [ClientManager][0] DelClient (127.0.0.1)
+15:50:40 [ClientManager][1] AddClient (127.0.0.1)
+15:50:40 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:22:44 [ClientManager][1] DelClient (127.0.0.1)
+16:23:46 [ClientManager][0] AddClient (127.0.0.1)
+16:23:46 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:23:49 [ClientManager][0] DelClient (127.0.0.1)
+16:27:27 [ClientManager][1] AddClient (127.0.0.1)
+16:27:27 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:27:30 [ClientManager][1] DelClient (127.0.0.1)
+16:27:50 [ClientManager][0] AddClient (127.0.0.1)
+16:27:50 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:27:52 [ClientManager][0] DelClient (127.0.0.1)
+16:28:32 [ClientManager][1] AddClient (127.0.0.1)
+16:28:32 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:28:34 [ClientManager][1] DelClient (127.0.0.1)
+16:29:36 [ClientManager][0] AddClient (127.0.0.1)
+16:29:36 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:29:38 [ClientManager][0] DelClient (127.0.0.1)
+16:30:09 [ClientManager][1] AddClient (127.0.0.1)
+16:30:09 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:30:12 [ClientManager][1] DelClient (127.0.0.1)
+16:30:39 [ClientManager][0] AddClient (127.0.0.1)
+16:30:39 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:30:41 [ClientManager][0] DelClient (127.0.0.1)
+16:31:12 [ClientManager][1] AddClient (127.0.0.1)
+16:31:12 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:31:14 [ClientManager][1] DelClient (127.0.0.1)
+16:31:30 [ClientManager][0] AddClient (127.0.0.1)
+16:31:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:32:16 [ClientManager][0] DelClient (127.0.0.1)
+16:32:31 [ClientManager][1] AddClient (127.0.0.1)
+16:32:31 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:32:34 [ClientManager][1] DelClient (127.0.0.1)
+16:32:45 [ClientManager][0] AddClient (127.0.0.1)
+16:32:45 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:33:03 [ClientManager][0] DelClient (127.0.0.1)
+16:34:05 [ClientManager][1] AddClient (127.0.0.1)
+16:34:05 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:35:33 [ClientManager][1] DelClient (127.0.0.1)
+16:35:38 [ClientManager][0] AddClient (127.0.0.1)
+16:35:38 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:35:40 [ClientManager][0] DelClient (127.0.0.1)
+16:36:48 [ClientManager][1] AddClient (127.0.0.1)
+16:36:48 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:37:48 [SocketManager] Server started at port [55999]
+16:37:48 [AntiHackServerInfo] Config loaded successfully
+16:37:48 [AntiHackServerInfo] DumpList loaded successfully
+16:37:48 [AntiHackServerInfo] ChecksumList loaded successfully
+16:37:48 [AntiHackServerInfo] InternalList loaded successfully
+16:37:48 [AntiHackServerInfo] WindowList loaded successfully
+16:37:48 [AntiHackServerInfo] BlackList loaded successfully
+16:37:57 [ClientManager][0] AddClient (127.0.0.1)
+16:37:57 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:38:59 [ClientManager][0] DelClient (127.0.0.1)
+16:39:37 [ClientManager][0] AddClient (127.0.0.1)
+16:39:37 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:41:14 [ClientManager][0] DelClient (127.0.0.1)
+16:41:32 [ClientManager][0] AddClient (127.0.0.1)
+16:41:32 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:44:20 [ClientManager][0] DelClient (127.0.0.1)
+16:44:33 [ClientManager][0] AddClient (127.0.0.1)
+16:44:33 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:45:41 [ClientManager][0] DelClient (127.0.0.1)
+16:47:03 [ClientManager][0] AddClient (127.0.0.1)
+16:47:03 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:52:50 [ClientManager][0] DelClient (127.0.0.1)
+16:53:00 [ClientManager][1] AddClient (127.0.0.1)
+16:53:00 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:54:48 [ClientManager][1] DelClient (127.0.0.1)
+16:54:52 [ClientManager][0] AddClient (127.0.0.1)
+16:54:52 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+16:59:47 [ClientManager][0] DelClient (127.0.0.1)
+17:00:13 [SocketManager] Server started at port [55999]
+17:00:13 [AntiHackServerInfo] Config loaded successfully
+17:00:13 [AntiHackServerInfo] DumpList loaded successfully
+17:00:13 [AntiHackServerInfo] ChecksumList loaded successfully
+17:00:13 [AntiHackServerInfo] InternalList loaded successfully
+17:00:13 [AntiHackServerInfo] WindowList loaded successfully
+17:00:13 [AntiHackServerInfo] BlackList loaded successfully
+17:00:20 [ClientManager][0] AddClient (127.0.0.1)
+17:00:20 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:03:27 [SocketManager] Server started at port [55999]
+17:03:27 [AntiHackServerInfo] Config loaded successfully
+17:03:27 [AntiHackServerInfo] DumpList loaded successfully
+17:03:27 [AntiHackServerInfo] ChecksumList loaded successfully
+17:03:27 [AntiHackServerInfo] InternalList loaded successfully
+17:03:27 [AntiHackServerInfo] WindowList loaded successfully
+17:03:27 [AntiHackServerInfo] BlackList loaded successfully
+17:03:37 [ClientManager][0] AddClient (127.0.0.1)
+17:03:37 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:03:46 [SocketManager] Server started at port [55999]
+17:03:46 [AntiHackServerInfo] Config loaded successfully
+17:03:46 [AntiHackServerInfo] DumpList loaded successfully
+17:03:46 [AntiHackServerInfo] ChecksumList loaded successfully
+17:03:46 [AntiHackServerInfo] InternalList loaded successfully
+17:03:46 [AntiHackServerInfo] WindowList loaded successfully
+17:03:46 [AntiHackServerInfo] BlackList loaded successfully
+17:03:59 [ClientManager][0] AddClient (127.0.0.1)
+17:03:59 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:09:52 [SocketManager] Server started at port [55999]
+17:09:52 [AntiHackServerInfo] Config loaded successfully
+17:09:52 [AntiHackServerInfo] DumpList loaded successfully
+17:09:52 [AntiHackServerInfo] ChecksumList loaded successfully
+17:09:52 [AntiHackServerInfo] InternalList loaded successfully
+17:09:52 [AntiHackServerInfo] WindowList loaded successfully
+17:09:52 [AntiHackServerInfo] BlackList loaded successfully
+17:09:56 [ClientManager][0] AddClient (127.0.0.1)
+17:09:56 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:12:07 [ClientManager][0] DelClient (127.0.0.1)
+17:12:12 [SocketManager] Server started at port [55999]
+17:12:12 [AntiHackServerInfo] Config loaded successfully
+17:12:12 [AntiHackServerInfo] DumpList loaded successfully
+17:12:12 [AntiHackServerInfo] ChecksumList loaded successfully
+17:12:12 [AntiHackServerInfo] InternalList loaded successfully
+17:12:12 [AntiHackServerInfo] WindowList loaded successfully
+17:12:12 [AntiHackServerInfo] BlackList loaded successfully
+17:12:15 [ClientManager][0] AddClient (127.0.0.1)
+17:12:15 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:12:20 [AntiHackServerInfo] BlackList loaded successfully
+17:16:24 [ClientManager][0] DelClient (127.0.0.1)
+17:16:51 [ClientManager][0] AddClient (127.0.0.1)
+17:16:51 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:18:42 [ClientManager][0] DelClient (127.0.0.1)
+17:18:46 [ClientManager][1] AddClient (127.0.0.1)
+17:18:46 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:19:23 [AntiHackServerInfo] WindowList loaded successfully
+17:19:35 [ClientManager][1] DelClient (127.0.0.1)
+17:19:42 [ClientManager][0] AddClient (127.0.0.1)
+17:19:42 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:21:55 [ClientManager][0] DelClient (127.0.0.1)
+17:22:03 [ClientManager][1] AddClient (127.0.0.1)
+17:22:03 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:22:24 [ClientManager][1] DelClient (127.0.0.1)
+17:23:34 [ClientManager][0] AddClient (127.0.0.1)
+17:23:34 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:25:18 [ClientManager][0] DelClient (127.0.0.1)
+17:25:23 [ClientManager][1] AddClient (127.0.0.1)
+17:25:23 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:25:43 [ClientManager][1] DelClient (127.0.0.1)
+17:25:51 [SocketManager] Server started at port [55999]
+17:25:51 [AntiHackServerInfo] Config loaded successfully
+17:25:51 [AntiHackServerInfo] DumpList loaded successfully
+17:25:51 [AntiHackServerInfo] ChecksumList loaded successfully
+17:25:51 [AntiHackServerInfo] InternalList loaded successfully
+17:25:51 [AntiHackServerInfo] WindowList loaded successfully
+17:25:51 [AntiHackServerInfo] BlackList loaded successfully
+17:25:56 [ClientManager][0] AddClient (127.0.0.1)
+17:25:56 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:26:54 [ClientManager][0] DelClient (127.0.0.1)
+17:26:59 [ClientManager][1] AddClient (127.0.0.1)
+17:26:59 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:28:25 [ClientManager][1] DelClient (127.0.0.1)
+17:28:47 [ClientManager][0] AddClient (127.0.0.1)
+17:28:47 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:29:19 [ClientManager][0] DelClient (127.0.0.1)
+17:29:23 [SocketManager] Server started at port [55999]
+17:29:23 [AntiHackServerInfo] Config loaded successfully
+17:29:23 [AntiHackServerInfo] DumpList loaded successfully
+17:29:23 [AntiHackServerInfo] ChecksumList loaded successfully
+17:29:23 [AntiHackServerInfo] InternalList loaded successfully
+17:29:23 [AntiHackServerInfo] WindowList loaded successfully
+17:29:23 [AntiHackServerInfo] BlackList loaded successfully
+17:29:35 [ClientManager][0] AddClient (127.0.0.1)
+17:29:35 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:38:41 [ClientManager][0] DelClient (127.0.0.1)
+17:38:45 [SocketManager] Server started at port [55999]
+17:38:45 [AntiHackServerInfo] Config loaded successfully
+17:38:45 [AntiHackServerInfo] DumpList loaded successfully
+17:38:45 [AntiHackServerInfo] ChecksumList loaded successfully
+17:38:45 [AntiHackServerInfo] InternalList loaded successfully
+17:38:45 [AntiHackServerInfo] WindowList loaded successfully
+17:38:45 [AntiHackServerInfo] BlackList loaded successfully
+17:39:30 [ClientManager][0] AddClient (127.0.0.1)
+17:39:30 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:39:51 [ClientManager][0] DelClient (127.0.0.1)
+17:39:52 [SocketManager] WSARecv() failed with error: 10038
+17:41:25 [ClientManager][0] AddClient (127.0.0.1)
+17:41:25 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:42:07 [ClientManager][0] DelClient (127.0.0.1)
+17:42:07 [SocketManager] WSARecv() failed with error: 10038
+17:43:17 [ClientManager][0] AddClient (127.0.0.1)
+17:43:17 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:45:57 [AntiHackServerInfo] BlackList loaded successfully
+17:48:44 [ClientManager][0] DelClient (127.0.0.1)
+17:48:45 [SocketManager] WSARecv() failed with error: 10038
+17:50:52 [ClientManager][0] AddClient (127.0.0.1)
+17:50:52 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:51:17 [ClientManager][1] AddClient (127.0.0.1)
+17:51:17 [ClientManager][1] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+17:51:24 [ClientManager][0] DelClient (127.0.0.1)
+17:51:24 [SocketManager] WSARecv() failed with error: 10038
+17:52:30 [ClientManager][1] DelClient (127.0.0.1)
+18:02:21 [ClientManager][0] AddClient (127.0.0.1)
+18:02:21 [ClientManager][0] ClientInfo (HardwareId: F41D833C-5A4F0939-4BEB0A8A-4E8D1429)
+23:25:17 [SocketManager] Server started at port [55999]
+23:25:17 [AntiHackServerInfo] Config loaded successfully
+23:25:17 [AntiHackServerInfo] DumpList loaded successfully
+23:25:17 [AntiHackServerInfo] ChecksumList loaded successfully
+23:25:17 [AntiHackServerInfo] InternalList loaded successfully
+23:25:17 [AntiHackServerInfo] WindowList loaded successfully
+23:25:17 [AntiHackServerInfo] BlackList loaded successfully
+23:27:00 [ClientManager][0] AddClient (127.0.0.1)
+23:27:00 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+23:28:21 [SocketManager] Server started at port [55999]
+23:28:21 [AntiHackServerInfo] Config loaded successfully
+23:28:21 [AntiHackServerInfo] DumpList loaded successfully
+23:28:21 [AntiHackServerInfo] ChecksumList loaded successfully
+23:28:21 [AntiHackServerInfo] InternalList loaded successfully
+23:28:21 [AntiHackServerInfo] WindowList loaded successfully
+23:28:21 [AntiHackServerInfo] BlackList loaded successfully
+23:28:24 [ClientManager][0] AddClient (127.0.0.1)
+23:28:24 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+23:34:19 [SocketManager] Server started at port [55999]
+23:34:19 [AntiHackServerInfo] Config loaded successfully
+23:34:19 [AntiHackServerInfo] DumpList loaded successfully
+23:34:19 [AntiHackServerInfo] ChecksumList loaded successfully
+23:34:19 [AntiHackServerInfo] InternalList loaded successfully
+23:34:19 [AntiHackServerInfo] WindowList loaded successfully
+23:34:19 [AntiHackServerInfo] BlackList loaded successfully
+23:34:24 [ClientManager][0] AddClient (127.0.0.1)
+23:34:24 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+23:35:34 [ClientManager][0] DelClient (127.0.0.1)
+23:35:46 [ClientManager][0] AddClient (127.0.0.1)
+23:35:46 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+23:36:27 [ClientManager][0] DelClient (127.0.0.1)
+23:36:34 [ClientManager][1] AddClient (127.0.0.1)
+23:36:34 [ClientManager][1] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+23:36:58 [AntiHackServerInfo] WindowList loaded successfully
+23:37:07 [ClientManager][1] DelClient (127.0.0.1)
+23:37:10 [ClientManager][0] AddClient (127.0.0.1)
+23:37:10 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+23:37:46 [ClientManager][0] DelClient (127.0.0.1)
+23:38:21 [ClientManager][1] AddClient (127.0.0.1)
+23:38:21 [ClientManager][1] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)
+23:40:13 [SocketManager] Server started at port [55999]
+23:40:13 [AntiHackServerInfo] Config loaded successfully
+23:40:13 [AntiHackServerInfo] DumpList loaded successfully
+23:40:13 [AntiHackServerInfo] ChecksumList loaded successfully
+23:40:13 [AntiHackServerInfo] InternalList loaded successfully
+23:40:13 [AntiHackServerInfo] WindowList loaded successfully
+23:40:13 [AntiHackServerInfo] BlackList loaded successfully
+23:40:35 [ClientManager][0] AddClient (127.0.0.1)
+23:40:35 [ClientManager][0] ClientInfo (HardwareId: 0AE3833C-A4B1F7C7-B515F474-B073EAD7)

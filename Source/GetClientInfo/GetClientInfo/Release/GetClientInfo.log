@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CCRC32.Cpp
+  GetClientInfo.cpp
+  MemScript.cpp
+  Message.cpp
+GetMainInfo.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.
+  

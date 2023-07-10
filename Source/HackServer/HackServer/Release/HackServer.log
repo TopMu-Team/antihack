@@ -1,0 +1,47 @@
+﻿  stdafx.cpp
+  Authenticate.cpp
+  BlackList.cpp
+  CCRC32.Cpp
+  ClientManager.cpp
+  CriticalSection.cpp
+  FileDownloadHTTP.cpp
+  FileDownloadURL.cpp
+  HackServer.cpp
+  HackServerProtocol.cpp
+  HidManager.cpp
+  IpManager.cpp
+  Log.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\Authenticate.cpp(62,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\Authenticate.cpp(66,19): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\FileDownloadHTTP.cpp(29,22): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MemScript.cpp
+  MiniDump.cpp
+  ProcessManager.cpp
+  Queue.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(142,9): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(320,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(225,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(235,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(263,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(302,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ReadFiles.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(258,11): warning C4101: 'Buf': unreferenced local variable
+  ServerDisplayer.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServerProtocol.cpp(229,50): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServerProtocol.cpp(283,54): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+  ServerInfo.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServerProtocol.cpp(333,54): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+  SocketManager.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServerProtocol.cpp(383,52): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+  Util.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\SocketManager.cpp(131,21): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\SocketManager.cpp(593,31): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\ReadFiles.cpp(264,30): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\ReadFiles.cpp(264,30): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\SocketManager.cpp(641,36): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\HackServer\HackServer\HackServer.cpp(337): warning C4715: 'PlayersList': not all control paths return a value
+  All 1092 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HackServer.vcxproj -> C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\AntiHackServer\AntiHackServer.exe

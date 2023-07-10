@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  GetHardwareId.cpp
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(5,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(9,18): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(37,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(27,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(32,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(33,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(34,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(35,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(41,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\Source\GetHardwareId\GetHardwareId\GetHardwareId.cpp(47,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GetHardwareId.vcxproj -> C:\Users\admin\Downloads\antihack\MHP_AntiHack_FullSource\TOOLS\GetHardwareId.exe

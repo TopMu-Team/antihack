@@ -1,0 +1,7 @@
+22:45:14 [SocketManager] Server started at port [55666]
+22:45:14 [AntiHackServerInfo] Config loaded successfully
+22:45:14 [AntiHackServerInfo] DumpList loaded successfully
+22:45:14 [AntiHackServerInfo] ChecksumList loaded successfully
+22:45:14 [AntiHackServerInfo] InternalList loaded successfully
+22:45:14 [AntiHackServerInfo] WindowList loaded successfully
+22:45:14 [AntiHackServerInfo] BlackList loaded successfully

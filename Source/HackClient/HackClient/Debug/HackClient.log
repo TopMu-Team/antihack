@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  HackClient.cpp
+D:\Games\Antihack\Antihack\Source\HackClient\HackClient\HackClient.cpp(34,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Games\Antihack\Antihack\Source\HackClient\HackClient\HackClient.cpp(159,18): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Games\Antihack\Antihack\Source\HackClient\HackClient\HackClient.cpp(164,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Games\Antihack\Antihack\Source\HackClient\HackClient\HackClient.cpp(166,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HackClient.vcxproj -> D:\Games\CLIENTS18(P2-2) (1)\CLIENTS18(P2-2)\Client\MHPClient.dll
