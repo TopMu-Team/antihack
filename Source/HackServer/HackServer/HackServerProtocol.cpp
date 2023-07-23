@@ -51,19 +51,19 @@ void CHClientInfoRecv(SDHP_CLIENT_INFO_RECV* lpMsg,int index) // OK
 
 	pMsg.result = 0;
 
-	if(gServerInfo.m_ClientFileCRC != 0 && gServerInfo.m_ClientFileCRC != lpMsg->ClientFileCRC)
-	{
-		pMsg.result = 1;
-		gSocketManager.DataSend(index,(BYTE*)&pMsg,pMsg.header.size);
-		return;
-	}
+	//if(gServerInfo.m_ClientFileCRC != 0 && gServerInfo.m_ClientFileCRC != lpMsg->ClientFileCRC)
+	//{
+	//	pMsg.result = 1;
+	//	gSocketManager.DataSend(index,(BYTE*)&pMsg,pMsg.header.size);
+	//	return;
+	//}
 
-	if(GetCurrentVersion() != ConvertHackVersion(lpMsg->HackVersion))
+	/*if(GetCurrentVersion() != ConvertHackVersion(lpMsg->HackVersion))
 	{
 		pMsg.result = 2;
 		gSocketManager.DataSend(index,(BYTE*)&pMsg,pMsg.header.size);
 		return;
-	}
+	}*/
 
 	if(gHidManager.CheckHardwareId(lpMsg->HardwareId) == 0)
 	{

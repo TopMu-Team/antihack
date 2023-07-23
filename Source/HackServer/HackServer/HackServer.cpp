@@ -224,7 +224,6 @@ int GetIndexByIpAndHwid(char* IP, char* HWID)
 
 LRESULT CALLBACK PlayersList(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam) // OK
 {
-
 	try {
 		switch (message)
 		{
@@ -238,12 +237,14 @@ LRESULT CALLBACK PlayersList(HWND hDlg, UINT message, WPARAM wParam, LPARAM lPar
 
 
 			int i = 0;
+			char text[64];
+			while (i < MAX_CLIENT) {
+			
+				if (gClientManager[i].CheckState() == 1) {
+					sprintf(text, "%d). %s", i, gClientManager[i].m_IpAddr);
+					SendMessage(IpListBox, LB_ADDSTRING, NULL, LPARAM(text));
+				}		
 
-			while (gClientManager[i].CheckState() != 0)
-			{
-				char text[64];
-				sprintf(text, "%d). %s", i, gClientManager[i].m_IpAddr);
-				SendMessage(IpListBox, LB_ADDSTRING, NULL, LPARAM(text));
 				i++;
 			}
 		}
@@ -269,9 +270,20 @@ LRESULT CALLBACK PlayersList(HWND hDlg, UINT message, WPARAM wParam, LPARAM lPar
 					int ListItem1 = (int)SendMessage(IpListBox, LB_GETCURSEL, 0, 0);
 					if (ListItem1 != LB_ERR)
 					{
-						char text[64];
-						sprintf(text, "%s", gClientManager[ListItem1].m_HardwareId);
-						SendMessage(HwidListBox, LB_ADDSTRING, NULL, LPARAM(text));
+						int i = 0;
+
+						while (i < MAX_CLIENT)
+						{
+							if (gClientManager[ListItem1].m_IpAddr == gClientManager[i].m_IpAddr) {
+								if (gClientManager[i].CheckState() == 1) {
+									char text[64];
+									sprintf(text, "%s", gClientManager[i].m_HardwareId);
+									SendMessage(HwidListBox, LB_ADDSTRING, NULL, LPARAM(text));
+								}
+							}
+							i++;
+						}
+
 					}
 					return 0;
 				}
@@ -284,7 +296,18 @@ LRESULT CALLBACK PlayersList(HWND hDlg, UINT message, WPARAM wParam, LPARAM lPar
 					HWND IpListBox = GetDlgItem(hDlg, IDC_LIST_IP);
 					HWND HwidListBox = GetDlgItem(hDlg, IDC_LIST_HWID);
 					int ListItem1 = (int)SendMessage(IpListBox, LB_GETCURSEL, 0, 0);
-					gClientManager[ListItem1].DelClient();
+					
+
+					int i = 0;
+
+					while (i < MAX_CLIENT)
+					{
+						if (gClientManager[ListItem1].m_IpAddr == gClientManager[i].m_IpAddr) {
+							gClientManager[i].DelClient();
+						}
+						i++;
+					}
+
 				} catch(...){}
 				break;
 			}
@@ -297,21 +320,20 @@ LRESULT CALLBACK PlayersList(HWND hDlg, UINT message, WPARAM wParam, LPARAM lPar
 				SendMessage(hlst, LB_RESETCONTENT, 0, NULL);
 				SendMessage(HwidListBox, LB_RESETCONTENT, 0, NULL);
 
-				int count = 0;
-				char text[64];
+				char WindowName[100];
+				sprintf(WindowName, "Connected %d Users", GetUserCount());
+				SetWindowText(hDlg, WindowName);
 
-				for (int n = 0; n < MAX_CLIENT; n++)
+				int i = 0;
+
+				while (i < MAX_CLIENT)
 				{
-					if (gClientManager[n].CheckState() != 0)
-					{
-						if (CheckListBox(hDlg, IDC_LIST_IP, gClientManager[n].m_IpAddr) == 0)
-						{
-							continue;
-						}
-						count++;
-						sprintf(text, "%d). %s", count, gClientManager[n].m_IpAddr);
+					if (gClientManager[i].CheckState() == 1) {
+						char text[64];
+						sprintf(text, "%d). %s", i, gClientManager[i].m_IpAddr);
 						SendMessage(hlst, LB_ADDSTRING, NULL, LPARAM(text));
 					}
+					i++;
 				}
 			}
 			break;		
@@ -320,15 +342,25 @@ LRESULT CALLBACK PlayersList(HWND hDlg, UINT message, WPARAM wParam, LPARAM lPar
 				HWND IpListBox = GetDlgItem(hDlg, IDC_LIST_IP);
 				HWND HwidListBox = GetDlgItem(hDlg, IDC_LIST_HWID);
 				int ListItem1 = (int)SendMessage(IpListBox, LB_GETCURSEL, 0, 0);
+				SendMessage(HwidListBox, LB_RESETCONTENT, 0, NULL);
 				if (ListItem1 != LB_ERR)
 				{
+					int i = 0;
 
-					std::set<std::string> strings = gClientManager[ListItem1].process;
+					while (i < MAX_CLIENT)
+					{
+						if (gClientManager[ListItem1].m_IpAddr == gClientManager[i].m_IpAddr) {
+							if (gClientManager[i].CheckState() == 1) {
+								std::set<std::string> strings = gClientManager[i].process;
 
-					for (std::string s: strings) {
-						char text[64];
-						strcpy(text, s.c_str());
-						SendMessage(HwidListBox, LB_ADDSTRING, NULL, LPARAM(text));
+								for (std::string s : strings) {
+									char text[64];
+									strcpy(text, s.c_str());
+									SendMessage(HwidListBox, LB_ADDSTRING, NULL, LPARAM(text));
+								}
+							}
+						}
+						i++;
 					}
 				}
 				break;
