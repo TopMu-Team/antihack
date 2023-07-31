@@ -90,7 +90,7 @@ void CSplash::OnPaint(HWND hwnd)
 		SelectObject(hDC, hFont);
 		SetBkMode(hDC,TRANSPARENT);
 		SetTextColor(hDC, m_TextColor);
-		TextOutA(hDC, 205, 76, m_TextToDisplay, strlen(m_TextToDisplay));
+		TextOutA(hDC, 100, 76, m_TextToDisplay, strlen(m_TextToDisplay));
 	}
 
     EndPaint (hwnd, &ps) ;

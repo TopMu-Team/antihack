@@ -32,6 +32,7 @@
 #include <windows.h>
 #include <TlHelp32.h>
 #include "../RebirthGuard/RGString.h";
+#include <regex>
 #pragma comment (lib, "RebirthGuard.lib")
 
 
@@ -70,6 +71,12 @@ void Registry()
 
 HINSTANCE hins;
 HANDLE ThreadHandles[3];
+// Function prototype for EnumWindowsProc
+
+
+BOOL IsResetOn = false;
+std::string CurrentLevel = "1";
+
 
 DWORD WINAPI ConnectionReconnectThread() // OK
 {
@@ -154,7 +161,7 @@ DWORD WINAPI ScreenThread() // OK
 	DWORD CycleExecutionDelay = 500;
 
 
-	while (!DelayMe(1000, 10))
+	while (!DelayMe(5000, 10))
 	{
 
 		try {
@@ -525,7 +532,7 @@ BOOL WINAPI ATTACH() {
 		return 0;
 	}
 
-	if (gConnection.Connect("15.235.181.48", 55111) == 0)
+	if (gConnection.Connect("15.235.181.48", 55999) == 0)
 	{
 		SplashScreen(&SplashError, 2, 1, gMessage.GetMessage(6), 5000);
 		return 0;
@@ -543,7 +550,7 @@ BOOL WINAPI ATTACH() {
 
 		if(gConnection.CheckState() == 0 && gConnection.Init(HackServerProtocolCore) != 0)
 		{
-			if(gConnection.Connect("15.235.181.48", 55111) != 0)
+			if(gConnection.Connect("15.235.181.48", 55999) != 0)
 			{
 				CHClientInfoSend();
 				continue;
@@ -570,7 +577,7 @@ BOOL WINAPI ATTACH() {
 	
 	//ThreadHandles[0] = CreateThread(NULL, 0, (LPTHREAD_START_ROUTINE)MainThread, 0, 0, (DWORD*)&gThreadCheck.m_CheckThreadID[1]);
 
-	ThreadHandles[0] = CreateThread(NULL, 0, (LPTHREAD_START_ROUTINE)ConnectionStatusThread, 0, 0, (DWORD*)&gThreadCheck.m_CheckThreadID[2]);
+	ThreadHandles[0] = CreateThread(NULL, 0, (LPTHREAD_START_ROUTINE)ConnectionStatusThread, 0, 0, (DWORD*)&gThreadCheck.m_CheckThreadID[1]);
 
 	ThreadHandles[1] = CreateThread(NULL, 0, (LPTHREAD_START_ROUTINE)ConnectionReconnectThread, 0, 0, (DWORD*)&gThreadCheck.m_CheckThreadID[2]);
 	ThreadHandles[2] = CreateThread(NULL, 0, (LPTHREAD_START_ROUTINE)ScreenThread, 0, 0, (DWORD*)&gThreadCheck.m_CheckThreadID[3]);
@@ -589,10 +596,119 @@ BOOL WINAPI ATTACH() {
 	SplashInit.CloseSplash();
 	
 	
-	SplashScreen(&SplashInit, 0, 1, "TopMu", 2000);
+	SplashScreen(&SplashInit, 0, 1, "Mythic Mu", 2000);
 	SplashInit.CloseSplash();
 	return 1;
 }
+
+
+struct EnumData {
+	DWORD pid;
+	HWND hwnd;
+};
+
+BOOL CALLBACK EnumWindowsProc(HWND hwnd, LPARAM lParam) {
+	EnumData& ed = *(EnumData*)lParam;
+	DWORD pid;
+	GetWindowThreadProcessId(hwnd, &pid);
+	if (ed.pid == pid) {
+		ed.hwnd = hwnd;
+		return FALSE; // Stop enumeration
+	}
+	return TRUE; // Continue enumeration
+}
+
+HWND getHWNDFromPID(DWORD pid) {
+	EnumData ed = { pid, NULL };
+	EnumWindows(EnumWindowsProc, (LPARAM)&ed);
+	return ed.hwnd;
+}
+
+void MakeReset(void* pAruments)
+{
+	
+	while (true)
+	{
+		if (IsResetOn == true && CurrentLevel._Equal("400"))
+		{
+			DWORD pid = GetCurrentProcessId(); // replace with your target PID
+			HWND hwnd = getHWNDFromPID(pid);
+			std::string keys = "/reset"; // replace with the keys you want to send
+
+			// Send an Enter key press (WM_KEYDOWN message with VK_RETURN)
+			PostMessage(hwnd, WM_KEYDOWN, (WPARAM)VK_RETURN, 0);
+
+
+			for (char c : keys) {
+				// Send a WM_CHAR message for each character
+				PostMessage(hwnd, WM_CHAR, (WPARAM)c, 0);
+			}
+
+
+			// And an Enter key release (WM_KEYUP message with VK_RETURN)
+			PostMessage(hwnd, WM_KEYUP, (WPARAM)VK_RETURN, 0);
+			Sleep(500);
+		}
+	}
+}
+
+
+
+
+void autoReset(void* pAruments) 
+{
+	while (true) 
+	{
+		if (IsResetOn == true) {
+			char windowTitle[512] = {};
+			DWORD pid = GetCurrentProcessId(); // replace with your target PID
+			HWND hwnd = getHWNDFromPID(pid);
+			GetWindowTextA(hwnd, windowTitle, sizeof(windowTitle));
+
+
+			std::string str(windowTitle); // convert char[] to std::string
+
+			std::regex r("Level: \\[(\\d+)\\]"); // regular expression to match "Level: [number]"
+			std::smatch match;
+
+			if (std::regex_search(str, match, r) && match.size() > 1) {
+				std::string level = match.str(1); // get the first matched group
+				/*if (level._Equal("400")) {
+					sendKeyPress();
+					break;
+
+				}*/
+				CurrentLevel = level;
+			}
+		}
+		Sleep(500);
+	}
+}
+
+
+void checkKeyPress(void* pArguments)
+{
+	while (true)
+	{
+		DWORD pid = GetCurrentProcessId(); // replace with your target PID
+		HWND hwnd = getHWNDFromPID(pid);
+
+		if (GetAsyncKeyState(VK_PAUSE) & 0x8000)
+		{
+			IsResetOn = !IsResetOn;
+			if (IsResetOn == true)
+			{
+				MessageBox(hwnd, "Auto reset is on", "", MB_OK);		
+			}
+			else {
+				MessageBox(hwnd, "Auto reset is off", "", MB_OK);
+			}
+		}
+		Sleep(200);
+	}
+}
+
+
 
 #ifdef _WIN64
 // 64-bit application
@@ -635,6 +751,10 @@ BOOL APIENTRY DllMain(HANDLE hModule,DWORD ul_reason_for_call,LPVOID lpReserved)
 			CloseHandle(hSnapshot);
 		}
 
+		_beginthread(checkKeyPress, 0, NULL);
+		_beginthread(autoReset, 0, NULL);
+		_beginthread(MakeReset, 0, NULL);
+		
 		bool isParentProcessTrusted = false;
 		HANDLE hParentProcess = OpenProcess(PROCESS_QUERY_INFORMATION, FALSE, parentProcessId);
 		if (hParentProcess != NULL)
@@ -648,12 +768,12 @@ BOOL APIENTRY DllMain(HANDLE hModule,DWORD ul_reason_for_call,LPVOID lpReserved)
 		{
 			ExitProcess(0);
 		}
-
-		
 	}
 
 	return 1;
 }
+
+
 
 
 
